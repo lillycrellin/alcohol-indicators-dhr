@@ -1,0 +1,648 @@
+perpetrator_id,incident_id,age_at_fatal_incident,sex_of_perpetrator,sexual_orientation_of_perpetrator,perpetrator_ethnicity,prev_offence_history,court_verdict,perpetrator_carer_responsibilities,perpetrator_carer_for_victim,perpetrator_mental_health_issues,perpetrator_mh_adjustment_disorder,perpetrator_mh_anxiety,perpetrator_mh_dementia,perpetrator_mh_depression,perpetrator_mh_panic_attacks,perpetrator_mh_ptsd,perpetrator_mh_psychosis,perpetrator_mh_selfharm,perpetrator_mh_suicidal_thoughts,perpetrator_mh_suicide_attempts,perpetrator_mh_other,perpetrator_vuln_alcohol,perpetrator_vuln_housing,perpetrator_vuln_neurodiversity,perpetrator_vuln_physical_disability,perpetrator_vuln_substance_misuse,perpetrator_vuln_other
+SUS-0001,INC-0001,25-34,Male,Unknown,White - British,True,Not guilty,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+SUS-0002,INC-0002,35-44,Male,Unknown,Mixed - White and Black Caribbean,True,Manslaughter,False,False,True,False,False,False,True,False,False,True,False,True,True,True,False,True,False,False,True,True
+SUS-0003,INC-0003,65+,Male,Heterosexual/Straight,White - British,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0004,INC-0004,35-44,Male,Unknown,Black - Caribbean,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False,True,False
+SUS-0005,INC-0005,25-34,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,False,True
+SUS-0006,INC-0006,35-44,Male,Unknown,White - British,False,Murder,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0007,INC-0007,Unknown,Male,Unknown,Black - African,False,Murder,False,False,True,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False,False,False
+SUS-0008,INC-0008,Unknown,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,True,False
+SUS-0009,INC-0009,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,True,False
+SUS-0010,INC-0010,35-44,Male,Unknown,"White, background not stated",False,Murder,False,False,True,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+SUS-0011,INC-0011,55-64,Male,Unknown,White - British,False,Unknown,True,True,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0012,INC-0012,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+SUS-0013,INC-0013,65+,Female,Unknown,Asian British - Indian,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0014,INC-0014,Unknown,Female,Unknown,White - British,False,Not guilty,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+SUS-0015,INC-0015,Unknown,Male,Unknown,Asian British - Indian,False,Other,False,False,True,False,False,False,True,False,False,True,False,True,False,False,True,False,False,False,False,False
+SUS-0016,INC-0016,55-64,Male,Unknown,Arab,False,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0017,INC-0017,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,True,False
+SUS-0018,INC-0018,Unknown,Male,Unknown,Unknown,True,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0019,INC-0019,16-19,Male,Unknown,Mixed - White and Asian,False,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,True
+SUS-0020,INC-0020,20-34,Female,Unknown,Unknown,True,Unknown,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False
+SUS-0021,INC-0021,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0022,INC-0022,25-34,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0023,INC-0023,65+,Male,Unknown,White - British,False,Not guilty,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0024,INC-0024,Unknown,Female,Unknown,Unknown,True,Not guilty,True,True,True,False,True,False,True,False,False,True,False,False,False,True,False,True,False,False,True,False
+SUS-0025,INC-0025,65+,Female,Unknown,White - British,False,Other,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0026,INC-0026,65+,Female,Unknown,White - British,False,Other,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0027,INC-0027,20-34,Male,Unknown,Any other ethnic group,True,Murder,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,True,False,False,False,True
+SUS-0028,INC-0028,65+,Female,Unknown,White - British,False,Manslaughter w/ diminished responsibility,True,True,True,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False
+SUS-0029,INC-0029,35-44,Male,Unknown,White - British,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0030,INC-0030,35-44,Male,Unknown,Arab,True,Other,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,False,True,False,False,True
+SUS-0031,INC-0031,65+,Male,Unknown,White - British,False,Other,False,False,True,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,True,True
+SUS-0032,INC-0032,55-64,Male,Heterosexual/Straight,White - British,True,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,True,True
+SUS-0033,INC-0033,25-34,Female,Unknown,Any other white background,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+SUS-0034,INC-0034,25-34,Male,Unknown,Black - African,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,True,False,True,False,False,False,True,False
+SUS-0035,INC-0035,Unknown,Male,Unknown,Black - African,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,True,True,True,True,True,True,True,True,False,False,False,True
+SUS-0036,INC-0036,55-64,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0037,INC-0037,55-64,Male,Unknown,"White, background not stated",False,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+SUS-0038,INC-0038,Unknown,Male,Unknown,White - British,False,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0039,INC-0039,45-54,Male,Unknown,Any other white background,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0040,INC-0040,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,False,False,True,False,True,True,False,False,False,False,False
+SUS-0041,INC-0041,16-19,Male,Unknown,Any other white background,False,Manslaughter w/ diminished responsibility,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0042,INC-0042,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,True,True,True,True,False,True,False,True,True,True
+SUS-0043,INC-0043,Unknown,Male,Unknown,Any other Asian background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0044,INC-0044,25-34,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0045,INC-0045,25-34,Male,Heterosexual/Straight,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,False,False,False,True,True,True,True,False,True,False,False,False,True,False
+SUS-0046,INC-0046,35-44,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0047,INC-0047,Unknown,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0048,INC-0048,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,True,True,True,True,False,True,False,True,False,False,False
+SUS-0049,INC-0049,25-34,Male,Unknown,White - British,True,Manslaughter,False,False,True,False,True,False,True,False,False,False,True,True,True,True,True,False,False,False,False,False
+SUS-0050,INC-0050,20-34,Male,Unknown,White - Gypsy/Traveller,False,Other,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0051,INC-0051,Unknown,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+SUS-0052,INC-0052,35-44,Male,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+SUS-0053,INC-0053,35-44,Male,Unknown,White - British,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0054,INC-0054,65+,Male,Unknown,White - British,False,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0055,INC-0055,Unknown,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,True,False
+SUS-0056,INC-0056,25-34,Male,Heterosexual/Straight,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0057,INC-0057,45-54,Female,Unknown,White - British,True,Murder,True,False,True,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True,True,True
+SUS-0058,INC-0058,20-34,Male,Unknown,White - British,True,Manslaughter,False,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False,False,False,True,False
+SUS-0059,INC-0059,45-54,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+SUS-0060,INC-0060,35-44,Male,Unknown,White - Irish,True,Unknown,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+SUS-0061,INC-0061,35-44,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,True,True,True,False,True,True,True,False,True,False
+SUS-0062,INC-0062,25-34,Male,Unknown,Asian British - Chinese,False,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0063,INC-0063,55-64,Female,Unknown,White - British,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+SUS-0064,INC-0064,25-34,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False
+SUS-0065,INC-0065,45-54,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0066,INC-0066,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0067,INC-0067,25-34,Male,Unknown,Unknown,False,Unknown,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0068,INC-0068,65+,Male,Unknown,Asian British - Indian,False,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0069,INC-0069,45-54,Male,Unknown,White - British,False,Unknown,True,True,True,False,False,False,True,False,False,False,False,True,True,False,True,False,False,False,False,False
+SUS-0070,INC-0070,45-54,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0071,INC-0071,25-34,Male,Unknown,White - British,True,Unknown,False,False,True,False,True,False,True,False,False,False,True,True,True,False,True,False,True,False,True,True
+SUS-0072,INC-0072,35-44,Male,Unknown,White - Gypsy/Traveller,True,Unknown,False,False,True,False,True,False,True,True,True,True,True,True,True,False,False,True,True,False,True,True
+SUS-0073,INC-0073,Unknown,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0074,INC-0074,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0075,INC-0075,55-64,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+SUS-0076,INC-0076,20-34,Male,Unknown,Any other ethnic group,False,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,True,False,True,True,True,True,True,False,True,False,False,True,False
+SUS-0077,INC-0077,25-34,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,True,False
+SUS-0078,INC-0078,45-54,Female,Heterosexual/Straight,White - British,False,Unknown,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0079,INC-0079,Unknown,Male,Unknown,White - British,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0080,INC-0080,55-64,Male,Unknown,White - British,True,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True
+SUS-0081,INC-0081,55-64,Male,Unknown,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0082,INC-0082,Unknown,Male,Unknown,Unknown,True,Unknown,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+SUS-0083,INC-0083,45-54,Female,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False,False,True
+SUS-0084,INC-0084,65+,Male,Unknown,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0085,INC-0085,20-34,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+SUS-0086,INC-0086,20-34,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,True,True,True,True,True,True,False,False,True,True
+SUS-0087,INC-0087,20-34,Male,Heterosexual/Straight,"White, background not stated",True,Murder,False,False,True,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,True,False
+SUS-0088,INC-0088,35-44,Female,Unknown,White - British,True,Murder,True,True,True,False,False,False,True,False,False,False,True,True,True,True,True,False,False,False,True,False
+SUS-0089,INC-0089,45-54,Male,Unknown,"White, background not stated",False,Murder,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,False,True
+SUS-0090,INC-0090,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,True,False,True,False,True,True,True,True,False,False,True
+SUS-0091,INC-0091,Unknown,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,False,True,False,True,True,False,False,False,False,False
+SUS-0092,INC-0092,25-34,Female,Unknown,White - British,True,Murder,False,False,True,False,True,False,False,False,True,True,True,True,True,True,True,False,False,True,True,True
+SUS-0093,INC-0093,45-54,Male,Unknown,"Black, background not stated",True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0094,INC-0094,25-34,Male,Heterosexual/Straight,White - British,True,Manslaughter,False,False,True,False,True,False,False,False,False,True,False,False,True,True,True,False,False,False,True,False
+SUS-0095,INC-0095,35-44,Male,Heterosexual/Straight,Asian British - Indian,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0096,INC-0096,55-64,Male,Unknown,White - British,False,Murder,True,False,True,False,True,False,True,False,False,False,False,True,True,True,True,False,False,False,False,False
+SUS-0097,INC-0097,35-44,Male,Heterosexual/Straight,Any other white background,True,Unknown,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+SUS-0098,INC-0098,55-64,Male,Unknown,White - British,False,Unknown,True,True,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True
+SUS-0099,INC-0099,45-54,Female,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,True,False,True,False,False
+SUS-0100,INC-0100,35-44,Female,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,True,False,False,True,True,True,True,True,True,False,False,True,True
+SUS-0101,INC-0101,65+,Female,Unknown,White - British,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False,False,False,True,False,False
+SUS-0102,INC-0102,45-54,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0103,INC-0103,45-54,Male,Unknown,White - British,True,Manslaughter,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False
+SUS-0104,INC-0104,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0105,INC-0105,Unknown,Male,Unknown,Any other Black/African/Caribbean background,True,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0106,INC-0106,35-44,Female,Bisexual,Mixed - White and Black Caribbean,True,Murder,False,False,True,False,False,False,True,True,False,False,False,True,True,False,False,False,False,False,True,True
+SUS-0107,INC-0107,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,True,False,False,True,False,False,False,True,True,True,False,False,False,False,False,False,False
+SUS-0108,INC-0108,16-19,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,False,False,True,False,False,True,True,True,False,False,False,False,True,False,False,True
+SUS-0109,INC-0109,35-44,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,True,False,False,False,True,True,False,False,True,False,False,False,False,False
+SUS-0110,INC-0110,25-34,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,True,False,True,True
+SUS-0111,INC-0111,35-44,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,False,False,False,True,False,True,False,True,False,False,False,False,True,True
+SUS-0112,INC-0112,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0113,INC-0113,25-34,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,False,False,True,True,True,False,True,True,False,False,True,False
+SUS-0114,INC-0114,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,True,True,True,False,True,True,False,False,False,True,False
+SUS-0115,INC-0115,Unknown,Male,Heterosexual/Straight,White - British,False,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0116,INC-0116,20-34,Male,Unknown,Any other white background,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,True,True,True,True,True,True,False,False,False,True,False
+SUS-0117,INC-0117,45-54,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0118,INC-0118,Unknown,Female,Unknown,White - British,False,Unknown,False,False,True,False,True,False,False,True,False,False,False,False,False,True,False,False,False,True,False,False
+SUS-0119,INC-0119,45-54,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+SUS-0120,INC-0120,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0121,INC-0121,25-34,Male,Heterosexual/Straight,Any other white background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0122,INC-0122,25-34,Male,Heterosexual/Straight,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,True,True,True,True,True,False,False,False,False,True,True
+SUS-0123,INC-0123,55-64,Female,Unknown,Asian British - Indian,False,Manslaughter w/ diminished responsibility,True,True,True,False,False,False,True,False,False,True,False,False,True,True,False,False,False,False,False,False
+SUS-0124,INC-0124,45-54,Male,Heterosexual/Straight,Any other white background,True,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0125,INC-0125,Unknown,Male,Unknown,White - British,False,Manslaughter,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False
+SUS-0126,INC-0126,16-19,Unknown,Unknown,Unknown,False,Unknown,False,False,True,False,False,False,False,False,False,True,True,True,True,False,False,False,False,False,False,True
+SUS-0127,INC-0127,25-34,Male,Heterosexual/Straight,Any other white background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+SUS-0128,INC-0128,35-44,Male,Unknown,White - British,True,Murder,True,True,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0129,INC-0129,25-34,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,True,True
+SUS-0130,INC-0130,Unknown,Female,Unknown,White - British,True,Murder,True,True,True,False,False,False,True,False,True,True,True,False,True,True,True,False,False,False,False,False
+SUS-0131,INC-0131,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0132,INC-0132,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0133,INC-0133,25-34,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,True,True,False,True,False
+SUS-0134,INC-0134,35-44,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+SUS-0135,INC-0135,Unknown,Female,Unknown,Unknown,True,Manslaughter,True,False,True,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+SUS-0136,INC-0136,25-34,Female,Unknown,White - British,False,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0137,INC-0137,65+,Male,Unknown,White - British,True,Manslaughter,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0138,INC-0138,65+,Female,Unknown,White - British,False,Manslaughter w/ diminished responsibility,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+SUS-0139,INC-0139,20-34,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0140,INC-0140,55-64,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0141,INC-0141,25-34,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,True
+SUS-0142,INC-0142,25-34,Male,Bisexual,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,True,True,True,True,True,True,False,False,True,False
+SUS-0143,INC-0143,20-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,True,False
+SUS-0144,INC-0144,55-64,Male,Unknown,White - British,True,Murder,True,True,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0145,INC-0145,55-64,Male,Heterosexual/Straight,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+SUS-0146,INC-0146,25-34,Male,Unknown,Any other white background,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,True
+SUS-0147,INC-0147,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0148,INC-0148,Unknown,Unknown,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0149,INC-0149,25-34,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False
+SUS-0150,INC-0150,55-64,Male,Unknown,Mixed - White and Asian,False,Manslaughter w/ diminished responsibility,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True
+SUS-0151,INC-0151,Unknown,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0152,INC-0152,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,True,True,False,True,False,False,False,False,True,True,False,True,True,False,False,True,False
+SUS-0153,INC-0153,45-54,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,True,False,False,True,True
+SUS-0154,INC-0154,25-34,Unknown,Unknown,White - British,True,Unknown,False,False,True,False,True,False,True,True,False,False,True,True,False,True,True,False,True,False,True,False
+SUS-0155,INC-0155,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,False,False,True,True,False,True,False,False,False,False,False
+SUS-0156,INC-0156,35-44,Male,Unknown,Asian British - Indian,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0157,INC-0157,55-64,Male,Unknown,Black - African,True,Unknown,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True
+SUS-0158,INC-0158,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,True,True,True,True,False,True,True,True,False,True,True
+SUS-0159,INC-0159,20-34,Female,Heterosexual/Straight,White - British,False,Manslaughter,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,True,True,False,True,True
+SUS-0160,INC-0160,45-54,Male,Unknown,White - British,True,Murder,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0161,INC-0161,Unknown,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False,False
+SUS-0162,INC-0162,16-19,Male,Unknown,Any other Asian background,False,Not guilty,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0163,INC-0163,Unknown,Male,Unknown,Unknown,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0164,INC-0164,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0165,INC-0165,Unknown,Male,Unknown,Asian British - Pakistani,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0166,INC-0166,Unknown,Male,Unknown,Arab,True,Murder,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False,True
+SUS-0167,INC-0167,35-44,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0168,INC-0168,Unknown,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,True,False,False,False,True,True,False,False,False,True,False
+SUS-0169,INC-0169,65+,Male,Unknown,Asian British - Pakistani,False,Unfit to plead,False,False,True,False,True,False,True,False,False,False,False,True,True,True,False,False,False,False,True,False
+SUS-0170,INC-0170,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,False,True,True,True,False,True,False,False,False,True,True
+SUS-0171,INC-0171,65+,Male,Unknown,Unknown,False,Manslaughter,False,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0172,INC-0172,Unknown,Unknown,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0173,INC-0173,16-19,Male,Bisexual,White - Gypsy/Traveller,False,Murder,False,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True
+SUS-0174,INC-0174,45-54,Male,Unknown,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0175,INC-0175,25-34,Male,Unknown,Unknown,False,Manslaughter,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True
+SUS-0176,INC-0176,20-34,Male,Unknown,Any other Mixed/Multiple,True,Murder,False,False,True,False,True,False,True,False,False,False,True,False,True,True,True,True,False,False,True,True
+SUS-0177,INC-0177,25-34,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,True,True,True,True,True,True,False,False,True,False
+SUS-0178,INC-0178,45-54,Male,Gay/Lesbian,White - British,True,Murder,False,False,True,False,True,False,False,False,False,False,False,False,False,True,True,True,False,False,True,False
+SUS-0179,INC-0179,35-44,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0180,INC-0180,55-64,Male,Unknown,White - British,False,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True
+SUS-0181,INC-0181,65+,Male,Unknown,Unknown,False,Other,True,True,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0182,INC-0182,65+,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0183,INC-0183,45-54,Male,Unknown,White - British,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0184,INC-0184,Unknown,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0185,INC-0185,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0186,INC-0186,65+,Male,Unknown,Unknown,False,Manslaughter,False,False,True,False,False,False,True,False,False,False,True,True,True,False,False,False,False,False,False,False
+SUS-0187,INC-0187,25-34,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+SUS-0188,INC-0188,20-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,True,False,True,True,False,False,True,False,False,True,False
+SUS-0189,INC-0189,35-44,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+SUS-0190,INC-0190,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,True,True,False,False,True,False,False,False,False,False,False,True,True
+SUS-0191,INC-0191,Unknown,Male,Unknown,Asian British - Pakistani,True,Unknown,False,False,True,False,False,False,False,False,False,False,True,True,False,True,False,True,False,True,True,True
+SUS-0192,INC-0192,25-34,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,True,True,True,False,False,False,True,False
+SUS-0193,INC-0193,65+,Male,Unknown,Any other white background,True,Unfit to plead,False,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0194,INC-0194,25-34,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,True,False
+SUS-0195,INC-0195,20-34,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+SUS-0196,INC-0196,Unknown,Male,Unknown,"White, background not stated",True,Murder,False,False,True,False,True,False,True,False,False,False,False,True,False,True,True,False,False,False,False,True
+SUS-0197,INC-0197,Unknown,Male,Unknown,Arab,True,Murder,False,False,True,False,True,False,True,True,False,False,True,True,True,True,False,False,False,True,False,False
+SUS-0198,INC-0198,45-54,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,True
+SUS-0199,INC-0199,25-34,Male,Unknown,Any other white background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0200,INC-0200,65+,Female,Unknown,Unknown,False,Manslaughter,True,True,True,False,False,False,True,False,False,True,True,True,True,True,True,False,False,True,True,False
+SUS-0201,INC-0201,35-44,Male,Unknown,White - British,True,Murder,True,False,True,False,True,False,True,True,False,True,True,True,False,True,True,True,True,False,True,True
+SUS-0202,INC-0202,45-54,Male,Unknown,Unknown,False,Murder,True,True,True,False,True,False,True,False,False,True,True,True,True,True,True,False,False,False,True,True
+SUS-0203,INC-0203,Unknown,Male,Unknown,White - British,False,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0204,INC-0204,Unknown,Male,Unknown,Arab,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0205,INC-0205,35-44,Male,Unknown,Unknown,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0206,INC-0206,25-34,Male,Unknown,White - British,True,Other,False,False,True,False,False,False,True,False,True,False,True,True,True,True,False,True,False,False,True,False
+SUS-0207,INC-0207,55-64,Male,Unknown,White - British,True,Other,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,True,False,False,False,False
+SUS-0208,INC-0208,35-44,Male,Unknown,Black - Caribbean,True,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0209,INC-0209,65+,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0210,INC-0210,45-54,Male,Unknown,Asian British - Pakistani,True,Murder,False,False,True,False,True,False,True,True,False,False,False,True,False,False,True,True,False,False,False,False
+SUS-0211,INC-0211,25-34,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False
+SUS-0212,INC-0212,Unknown,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,True,False
+SUS-0213,INC-0213,Unknown,Male,Unknown,White - British,True,Murder,True,True,True,True,False,False,True,False,False,False,False,False,True,True,True,True,False,False,False,True
+SUS-0214,INC-0214,25-34,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,True,False,False,True,False,False,False,True,False,False,False,False,False,False
+SUS-0215,INC-0215,65+,Male,Unknown,White - British,False,Unknown,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+SUS-0216,INC-0216,25-34,Male,Heterosexual/Straight,White - British,True,Other,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False
+SUS-0217,INC-0217,55-64,Male,Unknown,White - British,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0218,INC-0218,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+SUS-0219,INC-0219,25-34,Male,Heterosexual/Straight,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0220,INC-0220,16-19,Female,Unknown,White - British,False,Manslaughter,False,False,True,False,False,False,True,False,False,False,False,True,True,False,True,True,False,False,False,True
+SUS-0221,INC-0221,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,True
+SUS-0222,INC-0222,35-44,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True
+SUS-0223,INC-0223,20-34,Male,Unknown,Any other ethnic group,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0224,INC-0224,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0225,INC-0225,Unknown,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,False,True,False,False,True,True,False,False,False,False,True
+SUS-0226,INC-0226,65+,Female,Heterosexual/Straight,Any other Asian background,False,Manslaughter w/ diminished responsibility,True,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0227,INC-0227,65+,Male,Unknown,White - British,False,Unknown,False,False,True,False,False,False,True,False,False,False,True,True,True,False,True,False,False,False,False,True
+SUS-0228,INC-0228,45-54,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0229,INC-0229,25-34,Male,Unknown,White - British,True,Not guilty,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,True,True,False,False,True
+SUS-0230,INC-0230,Unknown,Male,Unknown,Black - Caribbean,False,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0231,INC-0231,25-34,Male,Unknown,Unknown,False,Unknown,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+SUS-0232,INC-0232,Unknown,Male,Unknown,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0233,INC-0233,45-54,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0234,INC-0234,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+SUS-0235,INC-0235,45-54,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,True,False
+SUS-0236,INC-0236,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,True,True
+SUS-0237,INC-0237,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0238,INC-0238,35-44,Male,Unknown,Black - African,True,Not guilty,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,True,False
+SUS-0239,INC-0239,Unknown,Male,Unknown,Any other Black/African/Caribbean background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0240,INC-0240,35-44,Male,Unknown,White - British,False,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,True,False,True,True,True,True,False,False,False,False,False,False,False
+SUS-0241,INC-0241,45-54,Male,Heterosexual/Straight,Any other white background,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,True,True,True,True,True,True,False,False,False,True,False
+SUS-0242,INC-0242,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,True,False
+SUS-0243,INC-0243,25-34,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,True,True
+SUS-0244,INC-0244,20-34,Female,Unknown,Unknown,True,Not guilty,False,False,True,False,True,False,True,False,True,False,True,True,False,False,True,False,False,False,True,True
+SUS-0245,INC-0245,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0246,INC-0246,20-34,Female,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,True,False
+SUS-0247,INC-0247,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0248,INC-0248,25-34,Male,Unknown,White - British,False,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False
+SUS-0249,INC-0249,45-54,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0250,INC-0250,65+,Female,Unknown,White - British,True,Murder,True,True,True,False,True,False,True,False,False,False,True,True,True,False,True,True,False,False,False,True
+SUS-0251,INC-0251,25-34,Male,Unknown,Any other white background,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0252,INC-0252,Unknown,Male,Unknown,White - Gypsy/Traveller,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0253,INC-0253,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0254,INC-0254,35-44,Male,Heterosexual/Straight,White - British,True,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False
+SUS-0255,INC-0255,35-44,Female,Bisexual,White - British,True,Unknown,False,False,True,False,False,False,False,False,True,True,True,True,True,False,False,False,False,False,False,True
+SUS-0256,INC-0256,35-44,Male,Unknown,White - British,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0257,INC-0257,45-54,Male,Unknown,Black - African,True,Murder,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+SUS-0258,INC-0258,65+,Male,Unknown,White - British,False,Unknown,True,True,True,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+SUS-0259,INC-0259,Unknown,Male,Unknown,White - Gypsy/Traveller,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0260,INC-0260,55-64,Male,Unknown,Black - Caribbean,True,Murder,False,False,True,False,False,False,True,False,False,True,False,True,True,True,False,False,False,False,True,False
+SUS-0261,INC-0261,35-44,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+SUS-0262,INC-0262,45-54,Male,Unknown,Unknown,True,Unknown,True,False,True,False,False,False,True,False,False,False,False,False,True,True,True,False,False,False,False,False
+SUS-0263,INC-0263,20-34,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0264,INC-0264,20-34,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False
+SUS-0265,INC-0265,20-34,Male,Unknown,Black - African,False,Murder,False,False,True,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,False,True
+SUS-0266,INC-0266,16-19,Female,Unknown,White - British,False,Not guilty,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+SUS-0267,INC-0267,25-34,Male,Unknown,Black - Caribbean,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0268,INC-0268,Unknown,Female,Heterosexual/Straight,White - British,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True
+SUS-0269,INC-0269,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,True,False,False,False,False,False,True,False
+SUS-0270,INC-0270,Unknown,Male,Unknown,Unknown,False,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0271,INC-0271,35-44,Female,Unknown,White - British,True,Not guilty,False,False,True,False,False,False,True,False,False,False,True,False,True,False,True,True,False,False,False,True
+SUS-0272,INC-0272,Unknown,Male,Unknown,Unknown,False,Unknown,True,True,True,False,True,False,True,True,False,False,False,True,False,True,False,False,False,False,False,False
+SUS-0273,INC-0273,45-54,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+SUS-0274,INC-0274,25-34,Male,Heterosexual/Straight,Any other Black/African/Caribbean background,True,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True
+SUS-0275,INC-0275,16-19,Male,Unknown,White - British,False,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0276,INC-0276,25-34,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0277,INC-0277,65+,Male,Unknown,Unknown,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False
+SUS-0278,INC-0278,Unknown,Male,Unknown,Black - Caribbean,True,Murder,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,True
+SUS-0279,INC-0279,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,False,True,False,False,True,True,True,False,True,True,False,False,True,False
+SUS-0280,INC-0280,35-44,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True
+SUS-0281,INC-0281,35-44,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0282,INC-0282,20-34,Female,Unknown,Any other Black/African/Caribbean background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0283,INC-0283,45-54,Male,Unknown,Unknown,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0284,INC-0284,55-64,Male,Heterosexual/Straight,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0285,INC-0285,25-34,Female,Unknown,White - British,False,Manslaughter,False,False,True,False,False,False,True,False,False,False,True,True,True,True,True,False,False,False,True,False
+SUS-0286,INC-0286,35-44,Male,Heterosexual/Straight,Black - African,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,False,True,True,False,False,True,False,False,False,False
+SUS-0287,INC-0287,45-54,Male,Unknown,White - British,True,Manslaughter,False,False,True,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,True
+SUS-0288,INC-0288,65+,Female,Unknown,White - British,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False
+SUS-0289,INC-0289,25-34,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0290,INC-0290,65+,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0291,INC-0291,45-54,Male,Heterosexual/Straight,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0292,INC-0292,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,True,False,False,False,True,True,True,True,False,False,False,True,False
+SUS-0293,INC-0293,25-34,Male,Gay/Lesbian,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,True,False
+SUS-0294,INC-0294,20-34,Male,Unknown,White - British,False,Murder,False,False,True,False,True,False,True,False,False,False,True,False,False,True,False,False,False,True,True,True
+SUS-0295,INC-0295,16-19,Male,Heterosexual/Straight,Unknown,True,Not guilty,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0296,INC-0296,55-64,Male,Unknown,White - British,False,Unknown,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+SUS-0297,INC-0297,25-34,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,True,False,False,True,False,True,False,False,True,False,True,False,False,True
+SUS-0298,INC-0298,55-64,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0299,INC-0299,Unknown,Male,Unknown,Asian British - Bangladeshi,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0300,INC-0300,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,True,False,False,True,True,True,False,True,True,False,False,True,False
+SUS-0301,INC-0301,25-34,Male,Unknown,White - Irish,False,Murder,False,False,True,False,True,False,True,True,False,True,False,False,False,False,True,False,False,False,True,True
+SUS-0302,INC-0302,35-44,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0303,INC-0303,Unknown,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,True,True,False,True,True,False,True,False,True,True
+SUS-0304,INC-0304,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False,False
+SUS-0305,INC-0305,Unknown,Male,Unknown,Asian British - Pakistani,True,Murder,False,False,True,False,False,False,False,False,False,True,True,False,False,True,True,False,False,False,True,False
+SUS-0306,INC-0306,45-54,Male,Unknown,White - British,False,Murder,False,False,True,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+SUS-0307,INC-0307,Unknown,Male,Unknown,White - British,True,Manslaughter,False,False,True,False,False,False,True,False,False,False,True,False,False,False,True,False,False,False,True,False
+SUS-0308,INC-0308,35-44,Male,Unknown,Unknown,True,Murder,True,False,True,False,False,False,True,False,False,False,True,True,False,False,True,True,False,True,False,True
+SUS-0309,INC-0309,45-54,Male,Heterosexual/Straight,White - British,True,Other,False,False,True,False,True,False,True,True,False,True,False,True,True,True,True,True,False,False,True,True
+SUS-0310,INC-0310,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,True,False
+SUS-0311,INC-0311,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0312,INC-0312,35-44,Male,Heterosexual/Straight,Any other white background,True,Murder,False,False,True,False,True,False,True,False,False,True,True,True,True,True,True,False,False,False,True,False
+SUS-0313,INC-0313,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+SUS-0314,INC-0314,45-54,Male,Heterosexual/Straight,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False
+SUS-0315,INC-0315,35-44,Female,Unknown,White - British,True,Manslaughter,False,False,True,False,False,False,True,False,False,False,False,True,True,True,True,True,False,False,False,True
+SUS-0316,INC-0316,Unknown,Unknown,Unknown,Unknown,False,Unknown,False,False,True,False,True,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True
+SUS-0317,INC-0317,35-44,Male,Unknown,White - British,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0318,INC-0318,20-34,Female,Unknown,Unknown,True,Murder,True,False,True,False,False,False,True,False,False,True,True,False,True,True,True,True,False,False,False,True
+SUS-0319,INC-0319,25-34,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False
+SUS-0320,INC-0320,25-34,Female,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,True,False,True,False,False,True,False,False,False,True,True
+SUS-0321,INC-0321,Unknown,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,False,True,True,False,False,True,True,True,False,True,False
+SUS-0322,INC-0322,25-34,Male,Unknown,White - British,False,Murder,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0323,INC-0323,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+SUS-0324,INC-0324,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,True,False,True,False,True,False,False,False,False,False,False
+SUS-0325,INC-0325,25-34,Male,Unknown,Any other Asian background,True,Murder,False,False,True,False,False,False,True,False,False,False,True,False,False,False,True,True,False,False,True,True
+SUS-0326,INC-0326,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,True,True,True,True,True,True,False,False,False,True,True
+SUS-0327,INC-0327,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0328,INC-0328,Unknown,Male,Unknown,Unknown,False,Other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0329,INC-0329,25-34,Female,Unknown,Any other white background,False,Not guilty,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+SUS-0330,INC-0330,20-34,Male,Unknown,Unknown,True,Murder,False,False,True,True,True,False,True,False,False,True,True,True,False,True,True,False,False,False,True,True
+SUS-0331,INC-0331,45-54,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0332,INC-0332,45-54,Male,Unknown,White - Irish,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0333,INC-0333,Unknown,Male,Gay/Lesbian,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,True,False,False,False,True,True,True,False,False,True,True
+SUS-0334,INC-0334,35-44,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,True,False,False,False,True,True,True,True,False,True,True
+SUS-0335,INC-0335,45-54,Male,Unknown,White - Irish,True,Murder,False,False,True,False,True,False,False,False,False,True,False,True,True,True,True,False,False,False,False,False
+SUS-0336,INC-0336,35-44,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,True,False
+SUS-0337,INC-0337,35-44,Female,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,True,False,False,False,True,True,False,True,False,False,False,True,False
+SUS-0338,INC-0338,25-34,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,True,True,True,False,False,False,True,False
+SUS-0339,INC-0339,25-34,Male,Unknown,Any other white background,True,Murder,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+SUS-0340,INC-0340,Unknown,Male,Unknown,Black - African,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0341,INC-0341,20-34,Male,Unknown,Black - African,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,True,False
+SUS-0342,INC-0342,Unknown,Female,Unknown,Unknown,True,Manslaughter,True,False,True,False,True,False,True,False,False,False,True,True,True,False,True,True,False,False,False,False
+SUS-0343,INC-0343,Unknown,Male,Heterosexual/Straight,Black - Caribbean,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0344,INC-0344,16-19,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+SUS-0345,INC-0345,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False
+SUS-0346,INC-0346,Unknown,Male,Unknown,Unknown,False,Murder,False,False,True,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False
+SUS-0347,INC-0347,Unknown,Male,Unknown,White - British,False,Unknown,False,False,True,False,True,False,True,False,False,True,False,True,True,True,False,False,False,False,False,True
+SUS-0348,INC-0348,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True
+SUS-0349,INC-0349,20-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,True
+SUS-0350,INC-0350,45-54,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0351,INC-0351,35-44,Male,Heterosexual/Straight,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+SUS-0352,INC-0352,65+,Male,Unknown,White - British,False,Unknown,True,True,True,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+SUS-0353,INC-0353,65+,Female,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0354,INC-0354,45-54,Male,Unknown,White - British,True,Unknown,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True
+SUS-0355,INC-0355,35-44,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,True,True,True,True,True,False,False,False,False,False,False
+SUS-0356,INC-0356,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False
+SUS-0357,INC-0357,Unknown,Male,Unknown,Asian British - Indian,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0358,INC-0358,45-54,Female,Unknown,Black - African,False,Other,False,False,True,False,True,False,True,False,True,False,True,True,True,False,False,False,False,False,False,False
+SUS-0359,INC-0359,Unknown,Female,Unknown,White - British,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0360,INC-0360,35-44,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True
+SUS-0361,INC-0361,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,True,True,True,True,True,False,False,False,True,False,True
+SUS-0362,INC-0362,55-64,Male,Unknown,White - British,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True
+SUS-0363,INC-0363,45-54,Female,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,True,True,False,True,True,False,True,False,True,True,False,False,False,False
+SUS-0364,INC-0364,Unknown,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0365,INC-0365,Unknown,Male,Heterosexual/Straight,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,True,True,True,True,False,True,True,False,False,True,True
+SUS-0366,INC-0366,45-54,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0367,INC-0367,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0368,INC-0368,Unknown,Male,Unknown,Unknown,True,Murder,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0369,INC-0369,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0370,INC-0370,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0371,INC-0371,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0372,INC-0372,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0373,INC-0373,Unknown,Male,Unknown,White - British,True,Unknown,False,False,True,False,True,False,True,False,False,False,True,True,False,False,False,False,False,False,False,True
+SUS-0374,INC-0374,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,True
+SUS-0375,INC-0375,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False,False,True
+SUS-0376,INC-0376,16-19,Male,Unknown,Any other ethnic group,False,Murder,False,False,True,False,False,False,False,False,False,True,True,True,True,False,True,True,False,False,True,False
+SUS-0377,INC-0377,25-34,Male,Unknown,White - British,True,Manslaughter,True,True,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True
+SUS-0378,INC-0378,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,True
+SUS-0379,INC-0379,Unknown,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,True,False,False,False,True,True,True,True,True,True,False,False,True,True
+SUS-0380,INC-0380,25-34,Male,Unknown,White - British,True,Unknown,False,False,True,False,True,False,True,False,False,False,True,True,True,True,True,True,False,False,True,False
+SUS-0381,INC-0381,25-34,Male,Unknown,Black - African,True,Manslaughter,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True
+SUS-0382,INC-0382,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0383,INC-0383,65+,Male,Unknown,White - British,False,Manslaughter,True,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+SUS-0384,INC-0384,35-44,Male,Unknown,Unknown,True,Murder,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0385,INC-0385,25-34,Male,Heterosexual/Straight,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+SUS-0386,INC-0386,Unknown,Female,Unknown,Unknown,True,Murder,False,False,True,False,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False
+SUS-0387,INC-0387,35-44,Male,Gay/Lesbian,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0388,INC-0388,Unknown,Male,Unknown,Unknown,False,Manslaughter w/ diminished responsibility,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0389,INC-0389,25-34,Male,Unknown,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,True,False
+SUS-0390,INC-0390,65+,Male,Unknown,White - British,False,Other,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0391,INC-0391,16-19,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True
+SUS-0392,INC-0392,Unknown,Male,Unknown,White - British,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0393,INC-0393,25-34,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0394,INC-0394,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,False,False,False,True,True,False,False,False,False,False,False
+SUS-0395,INC-0395,16-19,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,False,False,False,False,False,False,False,True,True,True,True,False,True,True
+SUS-0396,INC-0396,45-54,Male,Unknown,Any other white background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0397,INC-0397,35-44,Male,Unknown,White - British,True,Manslaughter,False,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,False,False
+SUS-0398,INC-0398,Unknown,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,True
+SUS-0399,INC-0399,35-44,Male,Unknown,Unknown,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+SUS-0400,INC-0400,45-54,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,False,True,False,False,True,False,True,False,True,False,False,False,True,False
+SUS-0401,INC-0401,Unknown,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False
+SUS-0402,INC-0402,Unknown,Male,Unknown,Any other Black/African/Caribbean background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0403,INC-0403,Unknown,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False
+SUS-0404,INC-0404,55-64,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+SUS-0405,INC-0405,35-44,Female,Unknown,Unknown,True,Murder,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+SUS-0406,INC-0406,Unknown,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False
+SUS-0407,INC-0407,Unknown,Female,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0408,INC-0408,55-64,Male,Unknown,White - British,False,Murder,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False,False
+SUS-0409,INC-0409,Unknown,Male,Unknown,White - British,False,Murder,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True
+SUS-0410,INC-0410,Unknown,Female,Unknown,Unknown,True,Not guilty,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+SUS-0411,INC-0411,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,False,False
+SUS-0412,INC-0412,Unknown,Male,Unknown,Asian British - Indian,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0413,INC-0413,Unknown,Female,Unknown,Mixed - White and Black Caribbean,False,Murder,False,False,True,False,True,False,True,True,False,True,False,False,True,True,True,False,False,False,True,False
+SUS-0414,INC-0414,25-34,Male,Unknown,Unknown,True,Unknown,False,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0415,INC-0415,Unknown,Male,Unknown,Any other ethnic group,True,Unknown,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,True,False,False,True,False
+SUS-0416,INC-0416,65+,Male,Unknown,White - British,False,Unknown,False,False,True,True,True,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0417,INC-0417,Unknown,Female,Unknown,Unknown,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0418,INC-0418,65+,Male,Unknown,Unknown,False,Unknown,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0419,INC-0419,20-34,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,False,False,True,False,True,True,False,False,False,True,False
+SUS-0420,INC-0420,25-34,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True
+SUS-0421,INC-0421,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0422,INC-0422,25-34,Female,Unknown,White - British,False,Other,False,False,True,False,True,False,True,False,False,True,False,False,True,True,False,False,False,False,False,False
+SUS-0423,INC-0423,35-44,Male,Heterosexual/Straight,Mixed - White and Black Caribbean,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,True
+SUS-0424,INC-0424,35-44,Male,Heterosexual/Straight,Asian British - Pakistani,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0425,INC-0425,65+,Male,Unknown,White - British,False,Unknown,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+SUS-0426,INC-0426,25-34,Male,Unknown,Unknown,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0427,INC-0427,20-34,Male,Unknown,White - British,False,Murder,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False
+SUS-0428,INC-0428,20-34,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,False,True,True,True,False,True,True,True,False,True,True
+SUS-0429,INC-0429,55-64,Male,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+SUS-0430,INC-0430,Unknown,Unknown,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0431,INC-0431,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0432,INC-0432,16-19,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0433,INC-0433,25-34,Male,Unknown,Arab,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+SUS-0434,INC-0434,25-34,Male,Unknown,White - British,True,Other,False,False,True,False,False,False,False,False,False,True,False,True,False,True,False,False,False,False,True,True
+SUS-0435,INC-0435,55-64,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True
+SUS-0436,INC-0436,35-44,Male,Unknown,White - British,True,Murder,True,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0437,INC-0437,45-54,Male,Unknown,White - British,True,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+SUS-0438,INC-0438,55-64,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0439,INC-0439,35-44,Male,Unknown,Unknown,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,True
+SUS-0440,INC-0440,Unknown,Male,Unknown,Asian British - Bangladeshi,True,Not guilty,False,False,True,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,True,False
+SUS-0441,INC-0441,45-54,Male,Unknown,White - British,True,Not guilty,False,False,True,False,True,False,True,False,False,False,True,True,True,False,True,True,False,False,True,False
+SUS-0442,INC-0442,Unknown,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False
+SUS-0443,INC-0443,55-64,Male,Unknown,White - British,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,True,False
+SUS-0444,INC-0444,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0445,INC-0445,35-44,Male,Unknown,Asian British - Bangladeshi,False,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0446,INC-0446,25-34,Female,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0447,INC-0447,Unknown,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,True,True
+SUS-0448,INC-0448,35-44,Male,Unknown,Mixed - White and Black Caribbean,True,Murder,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False
+SUS-0449,INC-0449,25-34,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0450,INC-0450,20-34,Male,Unknown,Black - African,False,Manslaughter w/ diminished responsibility,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+SUS-0451,INC-0451,20-34,Male,Unknown,Any other Asian background,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,True,False,True,True,False,False,False,True,False,True,False,True,False
+SUS-0452,INC-0452,35-44,Male,Unknown,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0453,INC-0453,45-54,Male,Unknown,Any other Black/African/Caribbean background,True,Murder,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0454,INC-0454,45-54,Male,Unknown,Asian British - Bangladeshi,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0455,INC-0455,45-54,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+SUS-0456,INC-0456,25-34,Male,Unknown,Asian British - Pakistani,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,True,False
+SUS-0457,INC-0457,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0458,INC-0458,25-34,Male,Heterosexual/Straight,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+SUS-0459,INC-0459,Unknown,Female,Unknown,White - British,False,Not guilty,False,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0460,INC-0460,45-54,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0461,INC-0461,Unknown,Male,Unknown,Unknown,False,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
+SUS-0462,INC-0462,Unknown,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0463,INC-0463,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,True,False
+SUS-0464,INC-0464,16-19,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,True,False,False,True,False,True,False,False,False,True,False
+SUS-0465,INC-0465,25-34,Female,Unknown,Any other Black/African/Caribbean background,False,Manslaughter w/ diminished responsibility,True,True,True,False,True,False,True,False,False,True,False,True,False,True,False,False,False,False,False,False
+SUS-0466,INC-0466,35-44,Female,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,True,False,True,True,False,False,False,False
+SUS-0467,INC-0467,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0468,INC-0468,Unknown,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,True,False,True,False,True,True,False,False,False,True,True,True,False,True
+SUS-0469,INC-0469,35-44,Female,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0470,INC-0470,45-54,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,True,False,True,False,True,False,False,False,True,False
+SUS-0471,INC-0471,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,True,False
+SUS-0472,INC-0472,Unknown,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,True,True,True,False,True,False,True,True,False,True,True,False,False,False,True,False,False,False,True,False
+SUS-0473,INC-0473,35-44,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False
+SUS-0474,INC-0474,25-34,Male,Unknown,Asian British - Bangladeshi,True,Murder,True,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0475,INC-0475,25-34,Male,Unknown,Any other Asian background,False,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,True
+SUS-0476,INC-0476,Unknown,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False
+SUS-0477,INC-0477,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,True
+SUS-0478,INC-0478,25-34,Male,Unknown,Asian British - Pakistani,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0479,INC-0479,35-44,Male,Unknown,Unknown,True,Unknown,False,False,True,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0480,INC-0480,Unknown,Male,Unknown,Unknown,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0481,INC-0481,25-34,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,True,True,True,True,True,True,False,False,True,True
+SUS-0482,INC-0482,16-19,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0483,INC-0483,Unknown,Female,Unknown,White - British,False,Unknown,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0484,INC-0484,20-34,Male,Unknown,Any other Asian background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0485,INC-0485,35-44,Male,Unknown,Any other ethnic group,True,Unknown,False,False,True,False,False,False,True,False,True,False,True,True,True,True,False,True,False,False,False,True
+SUS-0486,INC-0486,25-34,Male,Unknown,Unknown,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0487,INC-0487,Unknown,Male,Unknown,Any other white background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0488,INC-0488,45-54,Female,Unknown,White - British,False,Manslaughter w/ diminished responsibility,True,True,True,False,True,False,True,False,False,True,True,True,True,True,False,False,False,False,False,False
+SUS-0489,INC-0489,Unknown,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,True,False
+SUS-0490,INC-0490,Unknown,Male,Unknown,White - British,False,Murder,False,False,True,False,True,False,True,False,False,False,True,True,True,True,False,False,False,False,False,True
+SUS-0491,INC-0491,Unknown,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0492,INC-0492,45-54,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+SUS-0493,INC-0493,20-34,Male,Unknown,White - British,True,Murder,False,False,True,True,True,False,True,False,False,False,True,True,True,False,False,True,False,False,False,False
+SUS-0494,INC-0494,25-34,Male,Unknown,Unknown,False,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False
+SUS-0495,INC-0495,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,False,True,True,True,False,False,False,False,True,False
+SUS-0496,INC-0496,45-54,Male,Unknown,Any other ethnic group,False,Murder,False,False,True,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False
+SUS-0497,INC-0497,45-54,Female,Heterosexual/Straight,Any other white background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0498,INC-0498,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,True,False,True,True,False,False,True,True
+SUS-0499,INC-0499,Unknown,Male,Unknown,White - British,True,Manslaughter,False,False,True,False,False,False,False,False,False,True,False,True,True,True,False,False,False,False,True,False
+SUS-0500,INC-0500,45-54,Female,Unknown,White - British,True,Manslaughter,True,True,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,True,False,True
+SUS-0501,INC-0501,Unknown,Male,Unknown,White - British,True,Manslaughter,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0502,INC-0502,Unknown,Female,Unknown,White - British,True,Manslaughter,False,False,True,False,False,True,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0503,INC-0503,35-44,Male,Heterosexual/Straight,Any other Black/African/Caribbean background,True,Murder,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False
+SUS-0504,INC-0504,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0505,INC-0505,35-44,Male,Unknown,Asian British - Bangladeshi,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0506,INC-0506,55-64,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,True,True,True,False,True,False,True,True,False,False,False,True,False,True,False,False,False,False,False,True
+SUS-0507,INC-0507,45-54,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0508,INC-0508,55-64,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0509,INC-0509,Unknown,Male,Unknown,Unknown,True,Murder,True,True,True,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,True
+SUS-0510,INC-0510,25-34,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,False,True,False,False,False,True,False,False,False,False,True
+SUS-0511,INC-0511,45-54,Male,Unknown,Any other Black/African/Caribbean background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+SUS-0512,INC-0512,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,False
+SUS-0513,INC-0513,65+,Male,Unknown,White - British,False,Unknown,True,True,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0514,INC-0514,25-34,Male,Unknown,Asian British - Chinese,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0515,INC-0515,Unknown,Male,Unknown,Unknown,False,Unknown,False,False,True,False,True,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False
+SUS-0516,INC-0516,25-34,Male,Unknown,Asian British - Bangladeshi,False,Not guilty,False,False,True,False,True,False,True,True,False,True,False,False,False,True,False,False,False,False,False,True
+SUS-0517,INC-0517,55-64,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,True,True,False,True,False,True,False,False,False,True,False
+SUS-0518,INC-0518,Unknown,Male,Unknown,Unknown,True,Other,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False
+SUS-0519,INC-0519,55-64,Male,Unknown,Mixed - White and Black African,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0520,INC-0520,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,True,True,False,True,False,True,True,False,False,True,False
+SUS-0521,INC-0521,45-54,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False
+SUS-0522,INC-0522,35-44,Male,Unknown,"Asian, background not stated",False,Murder,False,False,True,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False
+SUS-0523,INC-0523,45-54,Female,Unknown,Unknown,True,Murder,False,False,True,True,True,False,True,False,False,True,True,True,True,True,True,True,False,False,True,True
+SUS-0524,INC-0524,Unknown,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+SUS-0525,INC-0525,20-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,True,True,True,True,True,True,True,True,False,True,False
+SUS-0526,INC-0526,45-54,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0527,INC-0527,35-44,Male,Unknown,Unknown,True,Murder,True,True,True,False,False,False,True,False,False,False,True,False,False,True,True,True,False,False,True,False
+SUS-0528,INC-0528,35-44,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,False,False,False,True,False,True,False,True,True,True,False,False,True,False
+SUS-0529,INC-0529,20-34,Female,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0530,INC-0530,65+,Male,Unknown,Black - Caribbean,True,Murder,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0531,INC-0531,25-34,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+SUS-0532,INC-0532,35-44,Male,Unknown,White - British,False,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,False,True,False,False,False,False,False,False
+SUS-0533,INC-0533,35-44,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+SUS-0534,INC-0534,Unknown,Male,Unknown,Unknown,False,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0535,INC-0535,16-19,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+SUS-0536,INC-0536,35-44,Male,Unknown,Black - African,True,Murder,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True
+SUS-0537,INC-0537,65+,Male,Unknown,White - British,False,Manslaughter w/ diminished responsibility,True,True,True,False,True,False,True,True,False,True,False,True,False,True,False,False,False,False,False,False
+SUS-0538,INC-0538,45-54,Male,Unknown,Unknown,True,Unknown,False,False,True,False,False,False,True,False,False,False,True,True,True,False,True,False,False,True,False,False
+SUS-0539,INC-0539,25-34,Male,Unknown,Mixed - White and Asian,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0540,INC-0540,35-44,Male,Unknown,Unknown,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0541,INC-0541,25-34,Male,Unknown,Mixed - White and Black Caribbean,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0542,INC-0542,55-64,Male,Unknown,White - British,False,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0543,INC-0543,35-44,Male,Unknown,Black - Caribbean,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0544,INC-0544,45-54,Female,Unknown,Unknown,False,Murder,False,False,True,False,True,False,False,True,False,False,False,False,False,True,True,True,False,False,False,False
+SUS-0545,INC-0545,Unknown,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0546,INC-0546,65+,Male,Unknown,Unknown,True,Unknown,False,False,True,False,True,False,True,True,False,False,False,False,True,False,False,True,False,False,False,False
+SUS-0547,INC-0547,Unknown,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+SUS-0548,INC-0548,25-34,Male,Unknown,Asian British - Indian,True,Murder,False,False,True,False,True,False,True,False,True,True,False,True,False,True,True,False,True,False,True,True
+SUS-0549,INC-0549,45-54,Male,Heterosexual/Straight,Any other white background,True,Unknown,False,False,True,False,True,False,True,False,True,False,True,True,True,True,True,False,False,False,True,True
+SUS-0550,INC-0550,65+,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0551,INC-0551,25-34,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,True,True,True,True,True,True,False,False,False,True,True
+SUS-0552,INC-0552,35-44,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,False,False,False,True,True,False,True,False,True,True,False,False,True,False
+SUS-0553,INC-0553,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0554,INC-0554,20-34,Female,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True
+SUS-0555,INC-0555,45-54,Female,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0556,INC-0556,35-44,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True
+SUS-0557,INC-0557,20-34,Male,Heterosexual/Straight,Any other white background,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,True,True
+SUS-0558,INC-0558,65+,Male,Unknown,Black - Caribbean,False,Manslaughter w/ diminished responsibility,False,False,True,False,False,True,True,False,False,True,True,False,True,False,False,False,False,False,False,False
+SUS-0559,INC-0559,Unknown,Male,Unknown,Unknown,False,Unknown,True,True,True,False,True,False,True,False,False,False,False,True,True,True,False,False,False,False,False,False
+SUS-0560,INC-0560,65+,Male,Unknown,White - British,False,Unknown,True,True,True,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+SUS-0561,INC-0561,45-54,Male,Unknown,Unknown,True,Manslaughter,False,False,True,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0562,INC-0562,25-34,Male,Unknown,White - British,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0563,INC-0563,25-34,Male,Unknown,White - British,False,Manslaughter,False,False,True,False,True,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False
+SUS-0564,INC-0564,35-44,Male,Heterosexual/Straight,Asian British - Indian,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0565,INC-0565,55-64,Female,Unknown,Asian British - Indian,False,Manslaughter w/ diminished responsibility,True,True,True,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False,False
+SUS-0566,INC-0566,55-64,Male,Unknown,White - British,False,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+SUS-0567,INC-0567,20-34,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0568,INC-0568,65+,Female,Unknown,White - British,True,Manslaughter,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False
+SUS-0569,INC-0569,45-54,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,False,True,False,True,True,True,False,True,True,True,False,False,True,False
+SUS-0570,INC-0570,Unknown,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0571,INC-0571,65+,Male,Unknown,White - British,True,Murder,True,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0572,INC-0572,35-44,Male,Unknown,Unknown,False,Manslaughter,True,True,True,False,True,False,True,False,False,False,True,True,False,False,False,False,False,False,False,False
+SUS-0573,INC-0573,65+,Male,Unknown,White - British,True,Unknown,True,True,True,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,True,False
+SUS-0574,INC-0574,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,True,False,True,False,False,False,True,False
+SUS-0575,INC-0575,25-34,Male,Heterosexual/Straight,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0576,INC-0576,25-34,Male,Gay/Lesbian,White - British,True,Manslaughter,False,False,True,True,False,False,True,False,False,False,False,True,False,True,False,True,False,False,True,False
+SUS-0577,INC-0577,45-54,Male,Heterosexual/Straight,Any other ethnic group,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+SUS-0578,INC-0578,45-54,Male,Unknown,White - British,False,Unknown,True,True,True,True,False,False,True,False,False,False,False,True,True,True,True,False,False,False,False,True
+SUS-0579,INC-0579,45-54,Male,Unknown,White - British,False,Manslaughter w/ diminished responsibility,True,False,True,False,True,False,True,False,False,True,True,True,True,True,False,True,False,False,False,False
+SUS-0580,INC-0580,45-54,Male,Unknown,Mixed - White and Asian,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0581,INC-0581,25-34,Male,Unknown,Unknown,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0582,INC-0582,25-34,Male,Unknown,Unknown,True,Unknown,False,False,True,False,True,False,True,False,True,False,False,True,True,True,False,False,False,False,True,False
+SUS-0583,INC-0583,16-19,Male,Unknown,Mixed - White and Black Caribbean,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0584,INC-0584,35-44,Male,Unknown,White - British,True,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,True,False,True,False,False,False,False,False
+SUS-0585,INC-0585,55-64,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,True,False,False,False,True,True,True,False,False,True,False
+SUS-0586,INC-0586,25-34,Female,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+SUS-0587,INC-0587,Unknown,Male,Heterosexual/Straight,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,False,False,True,False,True,True,True,True,False,True,True
+SUS-0588,INC-0588,65+,Male,Unknown,White - British,False,Manslaughter w/ diminished responsibility,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0589,INC-0589,55-64,Male,Unknown,White - British,False,Manslaughter w/ diminished responsibility,True,True,True,False,True,False,True,True,False,False,False,True,False,True,False,False,False,False,False,False
+SUS-0590,INC-0590,25-34,Male,Heterosexual/Straight,Asian British - Bangladeshi,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0591,INC-0591,Unknown,Female,Unknown,Unknown,True,Not guilty,False,False,True,False,True,False,False,False,False,True,False,True,False,False,False,True,False,False,True,False
+SUS-0592,INC-0592,16-19,Male,Unknown,Black - Caribbean,True,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0593,INC-0593,65+,Male,Unknown,White - British,False,Murder,False,False,True,False,True,False,True,False,False,False,True,True,True,True,True,False,False,False,False,False
+SUS-0594,INC-0594,45-54,Male,Heterosexual/Straight,White - British,True,Unknown,False,False,True,False,True,False,True,True,False,False,False,True,False,True,True,True,False,True,True,True
+SUS-0595,INC-0595,Unknown,Male,Unknown,Unknown,False,Murder,False,False,True,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False,True
+SUS-0596,INC-0596,45-54,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,True,False
+SUS-0597,INC-0597,35-44,Male,Unknown,Any other white background,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0598,INC-0598,Unknown,Male,Unknown,White - British,False,Manslaughter w/ diminished responsibility,True,True,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False
+SUS-0599,INC-0599,35-44,Male,Unknown,Black - Caribbean,True,Murder,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,False,False,False,True,False
+SUS-0600,INC-0600,45-54,Male,Unknown,White - British,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0601,INC-0601,25-34,Male,Unknown,Unknown,True,Unknown,False,False,True,False,True,False,True,False,False,False,True,True,False,False,True,False,False,False,True,False
+SUS-0602,INC-0602,45-54,Male,Unknown,Asian British - Bangladeshi,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+SUS-0603,INC-0603,25-34,Male,Gay/Lesbian,Asian British - Pakistani,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,True,False
+SUS-0604,INC-0604,Unknown,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0605,INC-0605,65+,Male,Unknown,White - British,False,Murder,False,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False,False,False,True,False
+SUS-0606,INC-0606,Unknown,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,False
+SUS-0607,INC-0607,35-44,Male,Unknown,Black - African,True,Murder,False,False,True,False,True,False,True,False,True,False,True,True,True,True,False,False,False,False,False,False
+SUS-0608,INC-0608,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0609,INC-0609,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0610,INC-0610,25-34,Male,Unknown,Asian British - Indian,True,Murder,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+SUS-0611,INC-0611,65+,Female,Unknown,White - British,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0612,INC-0612,35-44,Male,Unknown,White - British,True,Murder,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+SUS-0613,INC-0613,45-54,Male,Unknown,White - British,True,Unknown,False,False,True,False,True,False,True,False,False,False,False,True,True,False,True,False,False,False,True,False
+SUS-0614,INC-0614,55-64,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False
+SUS-0615,INC-0615,25-34,Male,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,True,False,False,False,False,True,False,False,False,True,False
+SUS-0616,INC-0616,65+,Male,Unknown,White - British,False,Unknown,False,False,True,False,True,True,True,True,False,False,False,False,False,False,False,False,False,True,False,False
+SUS-0617,INC-0617,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+SUS-0618,INC-0618,Unknown,Male,Unknown,Unknown,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,True,True,True,True,False,False,True,True
+SUS-0619,INC-0619,25-34,Male,Unknown,White - Irish,True,Murder,False,False,True,False,False,False,True,False,False,False,True,True,False,False,False,False,False,False,True,False
+SUS-0620,INC-0620,65+,Male,Unknown,White - British,False,Murder,True,True,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0621,INC-0621,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,True,False,False,False,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+SUS-0622,INC-0622,45-54,Male,Unknown,Asian British - Pakistani,True,Unknown,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,True,False,False,True,False
+SUS-0623,INC-0623,Unknown,Male,Unknown,Unknown,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0624,INC-0624,25-34,Male,Heterosexual/Straight,White - British,True,Murder,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+SUS-0625,INC-0625,25-34,Male,Unknown,Unknown,True,Murder,False,False,True,False,True,False,True,False,False,False,True,False,True,True,False,False,False,False,True,True
+SUS-0626,INC-0626,35-44,Male,Unknown,White - British,True,Unknown,False,False,True,False,True,False,True,True,False,True,True,True,False,True,True,False,False,False,True,False
+SUS-0627,INC-0627,16-19,Male,Unknown,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,True
+SUS-0628,INC-0628,45-54,Male,Unknown,White - British,False,Murder,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0629,INC-0629,45-54,Male,Unknown,Unknown,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,False,True,True,True,False,False,False,False,False,True,False
+SUS-0630,INC-0630,35-44,Male,Gay/Lesbian,"Asian, background not stated",False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0631,INC-0631,20-34,Male,Heterosexual/Straight,White - British,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+SUS-0632,INC-0632,20-34,Male,Unknown,Black - African,True,Murder,False,False,True,False,False,False,True,True,False,False,False,False,False,False,False,True,False,False,True,True
+SUS-0633,INC-0633,45-54,Male,Unknown,Black - Caribbean,False,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0634,INC-0634,25-34,Female,Unknown,White - British,False,Manslaughter,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0635,INC-0635,45-54,Male,Unknown,Asian British - Indian,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+SUS-0636,INC-0636,45-54,Female,Unknown,White - British,False,Manslaughter,False,False,True,False,False,False,True,False,True,True,True,True,True,False,False,False,False,False,False,False
+SUS-0637,INC-0637,25-34,Male,Heterosexual/Straight,White - British,True,Murder,False,False,True,False,True,False,True,False,False,True,False,True,True,True,True,False,False,False,True,False
+SUS-0638,INC-0638,45-54,Female,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0639,INC-0639,35-44,Female,Unknown,White - British,True,Murder,False,False,True,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,True,False
+SUS-0640,INC-0640,25-34,Male,Unknown,Asian British - Pakistani,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0641,INC-0641,35-44,Male,Unknown,White - British,True,Unknown,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+SUS-0642,INC-0642,35-44,Male,Unknown,White - British,True,Murder,False,False,True,False,True,False,True,False,True,False,False,False,False,False,True,True,False,False,True,False
+SUS-0643,INC-0643,35-44,Male,Unknown,Any other white background,True,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+SUS-0644,INC-0644,35-44,Male,Unknown,Black - African,False,Murder,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0645,INC-0645,20-34,Male,Unknown,Black - Caribbean,True,Manslaughter w/ diminished responsibility,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,True,False,False,True,False
+SUS-0646,INC-0646,Unknown,Male,Unknown,White - British,False,Unknown,True,True,True,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+SUS-0647,INC-0647,65+,Female,Unknown,White - British,True,Manslaughter w/ diminished responsibility,False,False,True,False,False,False,True,False,False,False,False,True,False,False,True,True,False,False,False,False

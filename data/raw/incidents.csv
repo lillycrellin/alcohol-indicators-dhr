@@ -1,0 +1,648 @@
+incident_id,csp,region,death_date,multiple_victims,cause_of_death,location_of_death,intimate_partner_violence,familial_homicide,parricide,homicide_suicide,children_present,coercive_control,economic_abuse,faith_based_marriage,forced_marriage,honour_based_violence,physical_abuse,emotional_abuse,separation,sexual_abuse,stalking
+INC-0001,Lincoln,East Midlands,September 2018,False,fall to a hard surface,other,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0002,Norfolk,East,March 2020,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0003,Norfolk,East,April 2022,False,unknown,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+INC-0004,Ealing,Greater London,July 2020,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0005,Manchester,North West,July 2021,False,arson,residential_location,False,True,True,False,True,False,False,False,False,False,True,True,True,False,False
+INC-0006,Southend-on-Sea,East,July 2021,False,arson,residential_location,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0007,Liverpool,North West,January 2021,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,False,True,True,False,False,False,False,True,False,True,False,False
+INC-0008,Westminster,Greater London,August 2021,True,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+INC-0009,Kent,South East,September 2019,False,unknown,public_place,True,False,False,False,False,True,True,False,False,False,True,False,False,False,False
+INC-0010,Bristol,South West,February 2017,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0011,Doncaster,Yorkshire and Humber,February 2020,False,other poisoning,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0012,Basildon,East,April 2018,False,unknown,not_known,True,False,False,False,False,True,False,False,False,False,True,True,False,True,False
+INC-0013,South Cambridgeshire,East,March 2022,False,other,other,True,True,False,False,False,True,True,False,False,False,False,True,False,False,False
+INC-0014,Bolton,North West,January 2019,False,sharp instrument,other,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0015,Wolverhampton,West Midlands,September 2021,False,sharp instrument,residential_location,True,False,False,True,True,True,True,False,False,False,True,True,True,False,True
+INC-0016,Liverpool,North West,November 2021,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0017,Solihull,West Midlands,November 2020,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0018,Gloucestershire,South West,July 2021,False,strangulation with ligature,residential_location,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0019,Norfolk,East,December 2020,False,arson,residential_location,False,True,False,False,True,True,False,False,False,False,False,False,False,False,False
+INC-0020,Lincoln,East Midlands,June 2021,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0021,Cumbria,North West,January 2022,False,fall to a hard surface,other,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+INC-0022,Western Suffolk,East,January 2020,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+INC-0023,Carmarthenshire,Wales,October 2018,False,burning or scalding,other,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0024,Cardiff,Wales,January 2016,False,"suffocation, asphyxiation or smothering",residential_location,False,True,True,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0025,Somerset,South West,April 2021,False,drowning,public_place,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0026,Wokingham,South East,September 2013,False,other poisoning,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0027,Solihull,West Midlands,August 2018,True,sharp instrument,public_place,True,True,False,False,True,True,True,False,True,True,True,True,True,True,True
+INC-0028,Northumberland,North East,March 2022,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,False,False,False,True,False,False,False,False,True,True,False,True
+INC-0029,Somerset,South West,May 2022,False,hitting with a weapon,other,False,False,False,False,True,True,False,False,False,False,True,True,True,True,False
+INC-0030,Dudley,West Midlands,March 2022,False,shooting,residential_location,True,False,False,True,False,False,True,False,False,False,True,False,False,False,False
+INC-0031,Hinckley and Bosworth,East Midlands,October 2021,False,sharp instrument,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0032,North West Leicestershire,East Midlands,August 2018,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0033,North East Lincolnshire,Yorkshire and Humber,April 2021,False,sharp instrument,public_place,True,False,False,False,False,False,False,False,False,False,True,True,True,True,False
+INC-0034,Southampton,South East,September 2019,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,True,False,True
+INC-0035,Bristol,South West,January 2019,False,sharp instrument,residential_location,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+INC-0036,Nottingham,East Midlands,February 2022,False,other,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0037,Dorset,South West,April 2021,False,sharp instrument,residential_location,True,False,False,True,False,True,True,False,False,False,False,False,True,False,True
+INC-0038,Wokingham,South East,November 2017,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0039,Wokingham,South East,December 2018,False,sharp instrument,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0040,East Sussex,South East,February 2013,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0041,Tower Hamlets,Greater London,January 2021,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0042,East Sussex,South East,November 2019,False,blunt instrument,other,True,False,False,False,False,False,True,False,False,False,False,False,False,True,False
+INC-0043,Sheffield,Yorkshire and Humber,November 2020,False,sharp instrument,other,False,True,False,False,False,True,False,False,False,True,True,True,True,False,False
+INC-0044,Salford,North West,July 2020,False,other poisoning,other,True,False,False,False,False,False,False,False,False,False,True,True,True,True,False
+INC-0045,Southampton,South East,February 2020,False,manual strangulation,residential_location,False,True,True,False,False,True,True,False,False,False,False,False,False,False,False
+INC-0046,Bristol,South West,June 2017,False,blunt instrument,residential_location,False,True,True,False,False,True,True,False,False,False,True,False,False,False,False
+INC-0047,Bristol,South West,November 2018,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+INC-0048,Norfolk,East,June 2020,False,sharp instrument,other,True,False,False,False,True,True,False,False,False,False,True,True,True,False,True
+INC-0049,Shropshire,West Midlands,September 2021,False,fall to a hard surface,other,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0050,Dudley,West Midlands,August 2021,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0051,Cumbria,North West,September 2018,False,hitting with a weapon,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+INC-0052,Peterborough,East,September 2021,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0053,Liverpool,North West,June 2022,False,other poisoning,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,True,True,True
+INC-0054,Torfaen,Wales,February 2021,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,False,False,True,True,False
+INC-0055,Kent,South East,2020,False,other,public_place,True,False,False,False,True,True,True,False,False,False,True,True,False,False,True
+INC-0056,Leeds,Yorkshire and Humber,December 2018,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,True
+INC-0057,South Worcestershire,West Midlands,March 2021,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,True,False,False,True
+INC-0058,Portsmouth,South East,January 2021,False,sharp instrument,public_place,False,True,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0059,Somerset,South West,January 2022,False,unknown,not_known,True,False,False,False,False,True,True,False,False,False,True,True,True,True,True
+INC-0060,Liverpool,North West,October 2021,False,other,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0061,Buckinghamshire,South East,April 2021,False,other,residential_location,False,True,True,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0062,Liverpool,North West,February 2020,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0063,Fenland,East,February 2022,False,other,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,True
+INC-0064,Durham,North East,September 2021,False,other,other,True,False,False,False,False,False,False,False,False,False,True,True,True,True,False
+INC-0065,Central Bedfordshire,East,January 2022,False,other,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,True
+INC-0066,Manchester,North West,November 2021,False,other,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0067,Bristol,South West,April 2019,False,unknown,not_known,True,False,False,False,False,True,True,False,False,False,True,True,True,True,False
+INC-0068,Dudley,West Midlands,January 2020,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0069,Rochdale,North West,March 2022,False,unknown,other,True,False,False,False,False,True,True,False,False,False,True,True,True,True,False
+INC-0070,Northumberland,North East,November 2020,False,other,other,True,False,False,False,False,True,False,False,False,False,False,True,True,False,True
+INC-0071,Forest of Dean,South West,June 2021,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0072,Sheffield,Yorkshire and Humber,October 2022,False,other,not_known,True,False,False,False,False,True,True,False,False,False,True,False,False,False,False
+INC-0073,West Lancashire,North West,January 2021,False,other poisoning,other,True,False,False,False,False,True,False,False,False,False,True,True,True,True,False
+INC-0074,Rochdale,North West,August 2021,False,other,other,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0075,Doncaster,Yorkshire and Humber,October 2019,False,unknown,not_known,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0076,Enfield,Greater London,August 2016,False,sharp instrument,public_place,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0077,Somerset,South West,September 2021,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0078,Somerset,South West,June 2021,False,strangulation with ligature,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,True,False,True
+INC-0079,Northampton,East Midlands,August 2019,False,other,other,True,False,False,False,False,True,True,False,False,False,True,True,False,False,True
+INC-0080,Cheltenham,South West,June 2019,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,True,True
+INC-0081,Oldham,North West,May 2021,False,blunt instrument,other,True,False,False,False,False,True,True,False,False,False,False,True,True,False,False
+INC-0082,West Cumbria,North West,May 2021,False,unknown,other,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0083,Harlow,East,February 2022,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0084,Fenland,East,April 2021,False,sharp instrument,residential_location,False,False,False,False,False,True,True,False,True,False,False,False,True,False,True
+INC-0085,Colchester,East,January 2021,False,sharp instrument,not_known,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False
+INC-0086,East Sussex,South East,April 2018,False,sharp instrument,residential_location,False,True,True,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0087,East Sussex,South East,August 2015,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,False,True,False,True
+INC-0088,Barnet,Greater London,October 2018,False,sharp instrument,residential_location,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0089,Barnet,Greater London,March 2019,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0090,Lincoln,East Midlands,May 2021,True,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,True,True,False,False
+INC-0091,Kent,South East,December 2020,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0092,Portsmouth,South East,July 2022,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+INC-0093,Portsmouth,South East,December 2019,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,True,True
+INC-0094,Middlesbrough,North East,March 2019,False,sharp instrument,not_known,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0095,East Sussex,South East,December 2019,False,hitting with a weapon,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,False,True
+INC-0096,East Sussex,South East,July 2020,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,False,True,True,False,False
+INC-0097,Gloucestershire,South West,September 2020,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0098,Norfolk,East,December 2018,False,blunt instrument,residential_location,True,False,False,True,False,True,True,False,False,False,False,False,True,False,False
+INC-0099,Wolverhampton,West Midlands,October 2013,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0100,South Oxfordshire,South East,October 2014,False,sharp instrument,other,True,False,False,False,False,True,True,False,False,False,True,True,False,False,True
+INC-0101,South Cambridgeshire,East,May 2018,False,other poisoning,other,True,False,False,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0102,East Sussex,South East,March 2016,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,True,False,True
+INC-0103,East Sussex,South East,July 2018,False,"suffocation, asphyxiation or smothering",not_known,True,False,False,False,False,True,True,False,False,False,True,False,False,True,False
+INC-0104,Southampton,South East,May 2015,False,other,other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0105,South Nottinghamshire,East Midlands,October 2016,False,other poisoning,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,True,True,False
+INC-0106,Manchester,North West,April 2021,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0107,Nottingham,East Midlands,June 2021,False,sharp instrument,other,True,False,False,False,True,True,True,False,False,False,True,True,True,True,True
+INC-0108,Northumberland,North East,November 2015,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0109,West Cumbria,North West,July 2020,False,hitting with a weapon,other,True,False,False,True,False,True,False,False,False,False,True,True,False,False,True
+INC-0110,Cheshire West and Chester,North West,August 2020,False,unknown,not_known,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0111,West Cumbria,North West,June 2020,False,sharp instrument,residential_location,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0112,Wiltshire,South West,May 2020,False,other poisoning,residential_location,True,False,False,False,False,True,False,False,False,False,False,True,True,True,False
+INC-0113,North East Lincolnshire,Yorkshire and Humber,January 2021,False,unknown,not_known,True,False,False,True,False,True,True,False,False,False,True,True,True,False,True
+INC-0114,Pendle,North West,May 2020,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0115,Ceredigion,Wales,May 2019,False,manual strangulation,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0116,Bridgend,Wales,October 2012,False,sharp instrument,residential_location,False,True,True,False,True,True,True,False,False,False,True,True,False,False,False
+INC-0117,Dudley,West Midlands,January 2018,False,manual strangulation,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,False,True
+INC-0118,South Cambridgeshire,East,October 2021,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,False,False,False
+INC-0119,Caerphilly,Wales,May 2016,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0120,Lambeth,Greater London,July 2013,False,unknown,not_known,True,False,False,False,True,True,True,False,False,False,False,True,False,False,False
+INC-0121,Croydon,Greater London,July 2017,False,blunt instrument,other,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+INC-0122,Croydon,Greater London,December 2012,False,sharp instrument,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0123,Croydon,Greater London,October 2016,False,other,other,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0124,Cornwall,South West,March 2020,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0125,Gwynedd,Wales,March 2012,False,unknown,residential_location,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0126,Winchester,South East,July 2019,False,other,residential_location,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False
+INC-0127,Croydon,Greater London,March 2016,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0128,Barking and Dagenham,Greater London,September 2015,False,"suffocation, asphyxiation or smothering",residential_location,False,True,True,False,True,False,True,False,False,False,False,False,False,False,False
+INC-0129,Cumbria,North West,June 2019,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0130,Northumberland,North East,November 2014,False,unknown,not_known,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0131,Hackney,Greater London,November 2012,False,blunt instrument,not_known,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0132,Kingston upon Hull,Yorkshire and Humber,July 2017,False,other,public_place,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0133,Cornwall,South West,March 2020,False,other poisoning,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,True,True
+INC-0134,Wiltshire,South West,June 2020,True,unknown,residential_location,True,True,False,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0135,Stockport,North West,November 2012,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False
+INC-0136,Gloucester,South West,April 2018,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+INC-0137,Liverpool,North West,September 2017,False,negligence or neglect,other,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0138,Sheffield,Yorkshire and Humber,2018,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0139,Rotherham,Yorkshire and Humber,August 2016,False,unknown,public_place,True,False,False,False,True,True,True,False,False,False,False,True,True,False,False
+INC-0140,Norfolk,East,December 2012,False,shooting,residential_location,True,False,False,True,False,True,False,False,False,False,True,True,True,True,False
+INC-0141,Somerset,South West,September 2012,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,False,False,True,True,False,False,False,False,True,False,False,True
+INC-0142,Leicester,East Midlands,February 2013,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0143,Cornwall,South West,April 2012,False,other,other,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0144,Stoke-on-Trent,West Midlands,June 2015,False,drowning,residential_location,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0145,Kensington and Chelsea,Greater London,November 2015,False,blunt instrument,residential_location,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+INC-0146,Bromley,Greater London,November 2013,False,hitting with a weapon,other,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0147,Cardiff,Wales,September 2017,False,sharp instrument,not_known,True,False,False,False,False,True,False,False,False,False,True,True,False,False,True
+INC-0148,Bedford,East,April 2011,False,unknown,not_known,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0149,Rotherham,Yorkshire and Humber,November 2019,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0150,Bassetlaw,East Midlands,August 2017,False,blunt instrument,residential_location,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0151,Newcastle upon Tyne,North East,February 2012,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0152,Bury,North West,February 2016,False,manual strangulation,residential_location,True,False,False,False,True,True,False,False,False,False,True,True,True,False,True
+INC-0153,St Helens,North West,February 2020,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0154,Walsall,West Midlands,August 2019,False,unknown,other,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False
+INC-0155,Sefton,North West,January 2012,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0156,Sandwell,West Midlands,July 2011,False,manual strangulation,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,True,False
+INC-0157,Norfolk,East,October 2014,False,sharp instrument,residential_location,True,False,False,True,False,True,False,False,False,False,True,False,True,False,False
+INC-0158,Sandwell,West Midlands,August 2020,False,sharp instrument,other,False,True,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0159,Tower Hamlets,Greater London,April 2018,False,sharp instrument,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,False,True,False
+INC-0160,North Hertfordshire,East,June 2018,False,unknown,other,True,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+INC-0161,North Somerset,South West,July 2011,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0162,Cardiff,Wales,June 2019,False,sharp instrument,other,False,True,True,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0163,Rotherham,Yorkshire and Humber,December 2011,False,arson,other,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False
+INC-0164,Sheffield,Yorkshire and Humber,April 2016,False,sharp instrument,other,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0165,Sheffield,Yorkshire and Humber,August 2014,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0166,Sheffield,Yorkshire and Humber,March 2014,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,True,False,False,False
+INC-0167,Wirral,North West,April 2012,False,manual strangulation,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0168,Sheffield,Yorkshire and Humber,May 2012,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0169,Barnet,Greater London,June 2011,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0170,Peterborough,East,July 2019,False,sharp instrument,residential_location,True,False,False,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0171,Gwynedd,Wales,December 2019,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0172,Bexley,Greater London,2018,False,other,not_known,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0173,Salford,North West,August 2019,False,sharp instrument,other,False,False,False,False,True,False,False,False,False,False,True,True,True,False,False
+INC-0174,North Somerset,South West,January 2018,False,sharp instrument,not_known,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0175,Wakefield,Yorkshire and Humber,August 2019,False,fall to a hard surface,other,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0176,Tewkesbury,South West,February 2014,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,True,True,True,False,True
+INC-0177,Tendring,East,December 2015,False,sharp instrument,residential_location,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0178,Stoke-on-Trent,West Midlands,May 2014,False,blunt instrument,other,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0179,Somerset,South West,November 2013,False,other poisoning,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0180,Wokingham,South East,October 2016,False,sharp instrument,residential_location,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+INC-0181,St Helens,North West,December 2004,False,manual strangulation,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+INC-0182,Norfolk,East,May 2015,False,other,not_known,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0183,Tewkesbury,South West,September 2015,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,True,True,True
+INC-0184,Wirral,North West,February 2012,False,blunt instrument,other,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0185,Wycombe,South East,September 2016,False,"suffocation, asphyxiation or smothering",other,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+INC-0186,Wiltshire,South West,April 2014,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0187,Salford,North West,June 2013,False,manual strangulation,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,True,True
+INC-0188,Uttlesford,East,July 2015,True,hitting with a weapon,residential_location,False,True,True,False,True,True,True,False,False,False,True,True,False,False,False
+INC-0189,Wolverhampton,West Midlands,February 2019,False,other,residential_location,False,True,True,False,True,True,False,False,False,False,True,False,True,False,False
+INC-0190,Oldham,North West,February 2018,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0191,Rochdale,North West,December 2019,False,strangulation with ligature,residential_location,False,True,False,False,True,True,True,False,True,False,True,True,False,False,False
+INC-0192,Nuneaton and Bedworth,West Midlands,January 2012,False,other,residential_location,True,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+INC-0193,South Worcestershire,West Midlands,January 2014,False,hitting with a weapon,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0194,North Worcestershire,West Midlands,March 2014,False,sharp instrument,other,True,False,False,False,True,True,False,False,False,False,True,True,True,True,True
+INC-0195,South Worcestershire,West Midlands,January 2014,False,sharp instrument,residential_location,False,True,True,False,True,True,False,False,False,False,True,True,False,False,False
+INC-0196,Warrington,North West,July 2012,False,unknown,other,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0197,Wandsworth,Greater London,September 2017,False,unknown,residential_location,False,False,False,False,False,True,True,False,False,False,True,True,False,False,True
+INC-0198,St Helens,North West,March 2019,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,True,False
+INC-0199,Lincoln,East Midlands,May 2016,False,drowning,residential_location,True,False,False,False,False,False,False,False,False,False,True,True,True,False,True
+INC-0200,Islington,Greater London,July 2012,False,"suffocation, asphyxiation or smothering",other,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+INC-0201,Dorset,South West,May 2019,False,blunt instrument,other,False,True,True,False,True,True,False,False,False,False,True,True,True,False,False
+INC-0202,Uttlesford,East,March 2020,False,sharp instrument,residential_location,False,True,True,True,True,True,True,False,False,False,False,False,True,False,False
+INC-0203,Chorley and South Ribble,North West,August 2013,False,sharp instrument,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0204,Kent,South East,December 2018,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,True,False,False,True,False,False
+INC-0205,Epping Forest,East,February 2016,False,burning or scalding,residential_location,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False
+INC-0206,Manchester,North West,June 2020,False,strangulation with ligature,other,True,False,False,False,False,True,False,False,False,False,True,True,True,True,True
+INC-0207,Stoke-on-Trent,West Midlands,October 2018,False,blunt instrument,residential_location,False,False,False,True,False,True,False,False,False,False,True,True,True,False,False
+INC-0208,Stoke-on-Trent,West Midlands,May 2019,False,sharp instrument,residential_location,True,False,False,True,True,True,True,False,False,False,True,True,True,True,False
+INC-0209,Stoke-on-Trent,West Midlands,November 2014,False,sharp instrument,public_place,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0210,Wolverhampton,West Midlands,March 2014,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,True,True,True,True,True,False
+INC-0211,Rochdale,North West,2016,False,sharp instrument,other,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0212,South Worcestershire,West Midlands,October 2018,False,other poisoning,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,False,False,False
+INC-0213,Tendring,East,November 2012,False,unknown,residential_location,False,True,True,False,True,True,True,False,False,False,False,True,True,False,False
+INC-0214,Gloucestershire,South West,June 2014,False,"suffocation, asphyxiation or smothering",residential_location,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0215,Waverley,South East,August 2019,False,shooting,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0216,Welwyn Hatfield,East,August 2017,False,strangulation with ligature,other,True,False,False,False,False,True,True,False,False,False,True,True,False,True,False
+INC-0217,Nottingham,East Midlands,August 2020,False,other,not_known,True,False,False,False,False,True,True,False,False,False,True,False,False,False,False
+INC-0218,East Hertfordshire,East,July 2014,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,True,True,False,True
+INC-0219,Somerset,South West,June 2019,False,fall to a hard surface,residential_location,True,True,True,False,False,True,True,False,False,False,True,True,False,True,False
+INC-0220,Sefton,North West,2014,False,"suffocation, asphyxiation or smothering",residential_location,False,True,True,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0221,South Worcestershire,West Midlands,April 2016,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0222,Mansfield,East Midlands,January 2018,False,manual strangulation,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+INC-0223,Hammersmith and Fulham,Greater London,March 2015,False,blunt instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0224,Welwyn Hatfield,East,June 2014,False,unknown,not_known,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0225,Sefton,North West,November 2012,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0226,Newham,Greater London,September 2018,False,hitting with a weapon,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,True,True,False
+INC-0227,Somerset,South West,February 2020,False,shooting,residential_location,True,False,False,True,False,True,False,False,False,False,False,True,True,False,False
+INC-0228,Broxbourne,East,August 2018,False,sharp instrument,residential_location,True,False,False,True,False,True,False,False,False,False,False,False,False,False,True
+INC-0229,Nottingham,East Midlands,November 2018,False,sharp instrument,other,False,True,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0230,Manchester,North West,July 2011,False,sharp instrument,other,True,False,False,False,False,True,False,False,False,False,True,True,True,True,True
+INC-0231,Birmingham,West Midlands,September 2017,False,sharp instrument,,True,False,False,True,False,True,True,False,False,False,False,True,True,False,True
+INC-0232,Sunderland,North East,June 2017,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,False,False,True,False,False
+INC-0233,Waverley,South East,February 2015,False,sharp instrument,residential_location,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0234,Solihull,West Midlands,August 2013,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,True,True,False,True
+INC-0235,Nottingham,East Midlands,2019,False,blunt instrument,other,True,False,False,False,False,True,False,False,False,False,True,True,False,False,True
+INC-0236,East and Mid Devon,South West,July 2012,False,strangulation with ligature,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,True,False
+INC-0237,Chiltern,South East,October 2016,False,arson,residential_location,False,True,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0238,Hammersmith and Fulham,Greater London,May 2020,False,sharp instrument,public_place,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0239,Liverpool,North West,2015,False,unknown,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0240,Huntingdonshire,East,August 2015,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0241,Ealing,Greater London,March 2012,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0242,Liverpool,North West,April 2017,False,manual strangulation,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0243,Wiltshire,South West,2015,False,strangulation with ligature,public_place,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0244,Kent,South East,September 2012,False,sharp instrument,other,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0245,Daventry and South Northamptonshire,East Midlands,December 2012,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+INC-0246,Stoke-on-Trent,West Midlands,May 2015,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,True,False
+INC-0247,Ealing,Greater London,December 2013,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,True,False,False,False
+INC-0248,Epping Forest,East,November 2017,False,unknown,not_known,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0249,Rochdale,North West,September 2017,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,True
+INC-0250,Lincoln,East Midlands,May 2015,False,unknown,not_known,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0251,Norfolk,East,September 2018,False,sharp instrument,other,True,False,False,False,False,True,False,False,False,False,True,False,True,False,True
+INC-0252,Kent,South East,June 2018,False,"suffocation, asphyxiation or smothering",other,False,True,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0253,Exeter,South West,September 2016,False,unknown,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True
+INC-0254,Croydon,Greater London,May 2018,False,manual strangulation,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,True,True
+INC-0255,Liverpool,North West,March 2020,False,other poisoning,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,True,False
+INC-0256,South Staffordshire,West Midlands,December 2016,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,False,True,False
+INC-0257,Ealing,Greater London,November 2015,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0258,South Ribble,North West,June 2019,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0259,Kent,South East,February 2018,False,unknown,not_known,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0260,Haringey,Greater London,December 2016,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0261,South Cambridgeshire,East,December 2018,False,manual strangulation,other,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0262,Liverpool,North West,March 2014,False,sharp instrument,residential_location,True,False,False,True,False,True,False,False,False,False,True,True,True,False,False
+INC-0263,Middlesbrough,North East,December 2016,False,hitting with a weapon,residential_location,False,True,True,False,True,True,True,False,False,False,True,False,False,False,False
+INC-0264,Lincoln,East Midlands,August 2019,True,manual strangulation,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0265,Bristol,South West,July 2015,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,True,True,False
+INC-0266,Middlesbrough,North East,2019,False,sharp instrument,other,False,True,True,False,True,True,True,False,False,False,True,True,False,False,False
+INC-0267,Leicester,East Midlands,November 2018,False,other,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+INC-0268,Doncaster,Yorkshire and Humber,March 2017,False,sharp instrument,not_known,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0269,Chorley and South Ribble,North West,May 2017,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0270,Leicester,East Midlands,2019,False,sharp instrument,residential_location,False,True,True,False,False,False,False,False,False,False,True,True,False,False,False
+INC-0271,Kent,South East,June 2011,False,fall to a hard surface,public_place,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+INC-0272,Manchester,North West,November 2013,False,sharp instrument,residential_location,False,True,True,True,True,False,False,False,False,False,False,False,False,False,False
+INC-0273,Stoke-on-Trent,West Midlands,June 2017,False,other,residential_location,True,False,False,False,False,True,True,False,False,False,False,False,True,False,False
+INC-0274,Croydon,Greater London,June 2019,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+INC-0275,Wiltshire,South West,May 2019,False,manual strangulation,residential_location,True,False,False,False,True,True,False,False,False,False,False,False,True,False,False
+INC-0276,Lincoln,East Midlands,2019,True,explosion,residential_location,True,False,False,True,False,True,False,False,False,False,False,False,True,False,True
+INC-0277,Plymouth,South West,May 2015,False,sharp instrument,residential_location,True,False,False,True,False,True,False,False,False,False,False,False,True,False,False
+INC-0278,Manchester,North West,January 2016,False,blunt instrument,other,True,False,False,False,False,True,True,False,False,False,True,True,True,True,True
+INC-0279,Cornwall,South West,May 2017,False,unknown,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0280,Milton Keynes,South East,May 2016,False,unknown,not_known,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0281,Bracknell Forest,South East,November 2010,False,unknown,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0282,Liverpool,North West,November 2014,False,sharp instrument,other,True,False,False,False,False,False,True,False,False,False,True,False,True,False,False
+INC-0283,Hartlepool,North East,July 2012,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,True,False
+INC-0284,Croydon,Greater London,November 2014,False,blunt instrument,residential_location,False,True,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0285,Stoke-on-Trent,West Midlands,April 2020,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0286,Ealing,Greater London,November 2016,False,sharp instrument,residential_location,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+INC-0287,Stafford,West Midlands,February 2017,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0288,Central Bedfordshire,East,March 2018,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0289,Manchester,North West,2014,False,hitting with a weapon,other,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0290,Solihull,West Midlands,April 2018,False,other,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0291,Leicester,East Midlands,April 2018,False,unknown,residential_location,True,False,False,True,False,True,True,False,False,False,True,True,True,True,True
+INC-0292,Bridgend,Wales,July 2013,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0293,Northampton,East Midlands,June 2016,False,unknown,residential_location,False,False,False,False,False,True,True,False,False,False,True,False,False,False,False
+INC-0294,Bristol,South West,February 2015,False,"suffocation, asphyxiation or smothering",residential_location,False,True,False,False,True,True,True,False,False,False,False,False,False,False,False
+INC-0295,Aylesbury Vale,South East,January 2017,False,sharp instrument,residential_location,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0296,East and Mid Devon,South West,May 2015,False,sharp instrument,residential_location,True,False,False,True,False,False,False,False,False,True,False,False,True,False,False
+INC-0297,Liverpool,North West,September 2018,False,hitting with a weapon,other,False,True,True,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0298,Cheltenham,South West,2013,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,True,True
+INC-0299,Newham,Greater London,July 2013,False,manual strangulation,other,True,False,False,False,True,True,False,False,True,False,False,True,True,True,False
+INC-0300,Wandsworth,Greater London,October 2013,False,sharp instrument,residential_location,False,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0301,Kingston upon Thames,Greater London,June 2012,False,"suffocation, asphyxiation or smothering",residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0302,Tamworth,West Midlands,January 2015,False,unknown,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0303,Solihull,West Midlands,June 2015,False,unknown,public_place,False,True,False,False,True,False,False,False,False,False,True,False,True,False,False
+INC-0304,West Berkshire,South East,October 2008,False,unknown,residential_location,True,False,False,True,False,True,False,False,False,False,False,True,True,False,False
+INC-0305,North Worcestershire,West Midlands,March 2014,False,sharp instrument,other,True,False,False,False,True,True,False,False,False,False,False,True,True,False,False
+INC-0306,Northampton,East Midlands,March 2015,False,hitting with a weapon,residential_location,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False
+INC-0307,Rochdale,North West,2015,False,sharp instrument,other,False,True,True,False,False,False,False,False,False,False,False,True,False,False,False
+INC-0308,Newcastle upon Tyne,North East,October 2012,False,other,not_known,True,False,False,False,False,True,True,False,False,False,True,True,True,True,False
+INC-0309,Plymouth,South West,October 2017,False,other,other,False,True,True,True,True,True,True,False,False,False,True,True,True,False,True
+INC-0310,Dorset,South West,January 2016,False,sharp instrument,public_place,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0311,Bradford,Yorkshire and Humber,December 2016,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,False,False,True
+INC-0312,Somerset,South West,November 2017,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,True,False
+INC-0313,Buckinghamshire,South East,2018,False,unknown,not_known,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0314,Bromley,Greater London,July 2019,False,hitting with a weapon,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0315,Lincoln,East Midlands,June 2018,False,hit by vehicle,other,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0316,Bromley,Greater London,August 2018,False,unknown,not_known,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0317,South Devon and Dartmoor,South West,January 2015,False,hitting with a weapon,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+INC-0318,Durham,North East,2011,False,sharp instrument,residential_location,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0319,Liverpool,North West,July 2014,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+INC-0320,Kent,South East,October 2011,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0321,Dorset,South West,April 2011,False,hitting with a weapon,residential_location,False,True,True,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0322,Newcastle upon Tyne,North East,December 2014,True,unknown,residential_location,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0323,Cwm Taf,Wales,October 2015,False,hitting with a weapon,residential_location,True,True,True,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0324,Bassetlaw,East Midlands,July 2018,False,manual strangulation,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,True,False,True
+INC-0325,Harrow,Greater London,December 2011,False,blunt instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0326,Harlow,East,June 2012,False,hit by vehicle,public_place,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0327,Tendring,East,2015,False,sharp instrument,residential_location,False,False,False,False,True,True,False,False,False,False,True,False,False,False,False
+INC-0328,Somerset,South West,January 2018,False,hit by vehicle,public_place,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0329,St Helens,North West,December 2016,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+INC-0330,Nottingham,East Midlands,January 2015,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+INC-0331,Dacorum,East,June 2018,False,blunt instrument,residential_location,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0332,Salford,North West,March 2018,False,blunt instrument,residential_location,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+INC-0333,North Tyneside,North East,February 2014,True,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0334,Exeter,South West,January 2018,False,manual strangulation,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0335,Gwynedd,Wales,July 2017,False,sharp instrument,other,True,False,False,True,False,True,False,False,False,False,True,True,True,False,False
+INC-0336,Bournemouth,South West,May 2016,False,fall to a hard surface,other,True,False,False,False,False,True,True,False,False,False,True,True,False,True,False
+INC-0337,Chorley and South Ribble,North West,August 2015,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0338,Nuneaton and Bedworth,West Midlands,January 2012,False,blunt instrument,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,True,False,False
+INC-0339,Newham,Greater London,July 2015,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0340,Rochdale,North West,March 2017,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+INC-0341,Manchester,North West,February 2016,False,sharp instrument,residential_location,False,True,True,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0342,Oldham,North West,December 2016,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0343,Croydon,Greater London,January 2013,False,fall to a hard surface,not_known,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0344,Doncaster,Yorkshire and Humber,October 2011,False,manual strangulation,residential_location,True,True,True,False,False,False,False,False,False,False,False,False,True,False,False
+INC-0345,Manchester,North West,March 2016,False,burning or scalding,other,False,True,False,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0346,Birmingham,West Midlands,December 2011,False,unknown,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0347,Birmingham,West Midlands,May 2012,False,manual strangulation,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0348,Cardiff,Wales,August 2016,False,blunt instrument,other,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0349,Wigan,North West,2015,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0350,Castle Point,East,November 2015,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+INC-0351,Reigate and Banstead,South East,November 2017,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,True,True
+INC-0352,Herefordshire,West Midlands,August 2014,False,shooting,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0353,Herefordshire,West Midlands,November 2014,False,unknown,public_place,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+INC-0354,Leeds,Yorkshire and Humber,April 2014,False,sharp instrument,residential_location,True,False,False,True,False,True,True,False,False,False,False,True,True,False,True
+INC-0355,Sandwell,West Midlands,July 2011,False,sharp instrument,not_known,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0356,Kent,South East,June 2017,False,sharp instrument,public_place,True,False,False,False,False,True,False,False,False,False,False,False,True,False,True
+INC-0357,Kent,South East,June 2019,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,True,True,False,True,False,False
+INC-0358,Bristol,South West,January 2017,False,other,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0359,Somerset,South West,April 2017,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0360,Tower Hamlets,Greater London,March 2012,False,unknown,residential_location,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0361,Harlow,East,July 2012,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,False,False,False,False
+INC-0362,Lincoln,East Midlands,July 2016,True,shooting,public_place,True,True,False,True,True,True,True,False,False,False,False,True,True,False,True
+INC-0363,Manchester,North West,August 2017,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,False,True,False
+INC-0364,Birmingham,West Midlands,November 2013,False,fall to a hard surface,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0365,Kirklees,Yorkshire and Humber,May 2014,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0366,Leeds,Yorkshire and Humber,2014,False,unknown,other,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0367,Peterborough,East,2011,False,unknown,not_known,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0368,Knowsley,North West,2013,True,blunt instrument,residential_location,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0369,Swindon,South West,March 2014,False,other,other,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0370,Sandwell,West Midlands,July 2013,False,unknown,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0371,New Forest,South East,2014,False,sharp instrument,not_known,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0372,Bristol,South West,September 2016,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,False,True,False,False,False
+INC-0373,Leeds,Yorkshire and Humber,2014,False,unknown,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0374,Torfaen,Wales,September 2012,True,arson,residential_location,True,True,False,False,True,True,False,False,False,False,True,True,False,True,False
+INC-0375,Manchester,North West,August 2015,False,manual strangulation,other,True,False,False,False,True,True,False,False,False,False,True,True,False,False,False
+INC-0376,Chelmsford,East,February 2012,False,blunt instrument,residential_location,True,False,False,False,True,True,True,False,False,False,False,False,True,False,False
+INC-0377,Stoke-on-Trent,West Midlands,April 2015,False,hitting with a weapon,other,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0378,Western Suffolk,East,December 2017,False,manual strangulation,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0379,Kent,South East,May 2015,False,sharp instrument,residential_location,False,True,True,False,True,True,False,False,False,False,True,False,False,False,False
+INC-0380,Tower Hamlets,Greater London,April 2011,False,sharp instrument,residential_location,True,False,False,True,False,False,False,False,False,False,True,True,False,False,False
+INC-0381,Tower Hamlets,Greater London,December 2014,False,sharp instrument,residential_location,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0382,Bolton,North West,December 2013,True,sharp instrument,residential_location,True,True,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0383,Tendring,East,December 2015,False,shooting,public_place,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0384,Lincoln,East Midlands,October 2012,False,blunt instrument,residential_location,False,True,True,False,True,True,True,False,False,False,True,True,False,False,False
+INC-0385,Cannock Chase,West Midlands,July 2019,False,other,residential_location,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0386,Isle of Wight,South East,2016,False,unknown,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0387,South Gloucestershire,South West,May 2015,False,other poisoning,public_place,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0388,South Warwickshire,West Midlands,2014,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0389,Southend-on-Sea,East,January 2019,False,shooting,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0390,Cardiff,Wales,July 2016,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0391,Cheltenham,South West,April 2014,False,strangulation with ligature,residential_location,True,False,False,False,True,True,True,False,False,False,True,False,True,False,False
+INC-0392,Stockport,North West,January 2015,False,sharp instrument,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0393,Norfolk,East,February 2015,False,strangulation with ligature,other,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0394,Newport,Wales,August 2013,False,shooting,other,True,False,False,False,False,True,False,False,False,False,False,False,True,False,True
+INC-0395,Kent,South East,December 2015,False,hitting with a weapon,other,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+INC-0396,Shropshire,West Midlands,December 2014,False,other,,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0397,Kent,South East,May 2016,False,unknown,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0398,Liverpool,North West,March 2016,False,blunt instrument,public_place,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0399,Leicester,East Midlands,May 2015,False,manual strangulation,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0400,Newcastle upon Tyne,North East,December 2014,False,hitting with a weapon,residential_location,True,True,True,False,True,True,False,False,False,False,True,False,False,False,False
+INC-0401,Kent,South East,April 2015,False,sharp instrument,not_known,True,False,False,False,False,True,False,False,False,False,False,False,False,False,True
+INC-0402,Leeds,Yorkshire and Humber,2013,False,unknown,other,True,False,False,False,False,True,False,False,False,False,True,False,True,False,True
+INC-0403,Barnsley,Yorkshire and Humber,March 2013,False,strangulation with ligature,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0404,Ceredigion,Wales,March 2014,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0405,Colchester,East,September 2016,False,arson,residential_location,False,False,False,False,False,True,True,False,False,False,False,True,False,False,False
+INC-0406,Rochdale,North West,2013,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0407,Kirklees,Yorkshire and Humber,January 2017,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0408,Greenwich,Greater London,February 2015,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,True,False,True
+INC-0409,Maldon,East,July 2015,False,unknown,residential_location,True,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+INC-0410,North Worcestershire,West Midlands,June 2016,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+INC-0411,Kent,South East,November 2013,False,strangulation with ligature,public_place,True,False,False,False,False,True,False,False,False,False,False,True,True,False,True
+INC-0412,Bradford,Yorkshire and Humber,April 2012,False,unknown,not_known,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0413,Kensington and Chelsea,Greater London,February 2015,True,sharp instrument,residential_location,True,True,False,False,True,True,False,False,False,False,True,True,True,False,False
+INC-0414,Bexley,Greater London,December 2016,False,manual strangulation,residential_location,True,False,False,True,True,True,True,True,False,False,True,True,True,True,True
+INC-0415,Lambeth,Greater London,December 2012,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0416,East and Mid Devon,South West,December 2015,False,blunt instrument,other,True,False,False,True,False,True,False,False,False,False,False,False,True,False,False
+INC-0417,Somerset,South West,April 2017,False,strangulation with ligature,public_place,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0418,Colchester,East,May 2014,False,shooting,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0419,Derbyshire Dales,East Midlands,September 2012,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0420,Bournemouth,South West,October 2016,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,False,True,False,False,False
+INC-0421,Bristol,South West,August 2016,False,sharp instrument,public_place,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0422,Ealing,Greater London,September 2016,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,True,False,False,True
+INC-0423,Kirklees,Yorkshire and Humber,February 2017,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,False,False,False,False
+INC-0424,Birmingham,West Midlands,November 2012,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,True,True,False,True,True,False
+INC-0425,Blackburn With Darwen,North West,April 2015,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0426,Bristol,South West,January 2014,False,blunt instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,True,False
+INC-0427,Cardiff,Wales,April 2019,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,True
+INC-0428,Poole,South West,May 2015,False,sharp instrument,residential_location,True,True,False,False,False,True,True,False,False,False,True,True,True,True,True
+INC-0429,Kensington and Chelsea,Greater London,January 2017,False,blunt instrument,residential_location,True,False,False,True,False,True,True,False,False,False,False,False,True,False,False
+INC-0430,Basildon,East,2018,False,unknown,not_known,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+INC-0431,Epping Forest,East,July 2012,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0432,Dorset,South West,July 2012,False,unknown,not_known,False,True,True,False,True,False,False,False,False,False,False,True,True,False,False
+INC-0433,Manchester,North West,June 2013,False,unknown,not_known,True,False,False,False,False,True,True,True,False,True,True,True,True,True,True
+INC-0434,Barnet,Greater London,August 2017,True,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0435,Durham,North East,2011,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False
+INC-0436,Lewisham,Greater London,August 2016,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,True,True
+INC-0437,Cornwall,South West,October 2013,False,blunt instrument,residential_location,True,False,False,True,False,True,False,False,False,False,False,True,False,False,True
+INC-0438,Liverpool,North West,March 2011,False,sharp instrument,other,True,False,False,False,False,True,False,False,False,False,True,True,False,False,True
+INC-0439,Bradford,Yorkshire and Humber,January 2016,False,sharp instrument,residential_location,True,False,False,True,False,True,True,False,False,False,True,True,True,False,False
+INC-0440,Tower Hamlets,Greater London,February 2014,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,True,True,False,True,False
+INC-0441,Leeds,Yorkshire and Humber,September 2013,False,hitting with a weapon,other,True,False,False,True,False,True,True,False,False,False,True,True,True,True,False
+INC-0442,Derbyshire Dales,East Midlands,2015,False,blunt instrument,other,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0443,Oldham,North West,March 2015,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0444,Bristol,South West,August 2013,False,drowning,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0445,Stockport,North West,August 2014,False,strangulation with ligature,other,True,False,False,False,True,True,True,False,False,False,True,True,True,True,True
+INC-0446,St Helens,North West,December 2014,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True
+INC-0447,Kent,South East,May 2012,False,unknown,residential_location,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0448,Kent,South East,April 2012,False,sharp instrument,other,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0449,Norfolk,East,January 2017,False,hitting with a weapon,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0450,Basildon,East,2013,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0451,Solihull,West Midlands,July 2014,True,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0452,Birmingham,West Midlands,June 2014,False,manual strangulation,residential_location,True,False,False,False,True,True,False,False,False,False,False,False,True,False,True
+INC-0453,Bexley,Greater London,December 2015,True,sharp instrument,residential_location,True,True,False,False,True,True,False,False,False,False,False,True,True,False,False
+INC-0454,Newham,Greater London,July 2011,False,manual strangulation,residential_location,True,False,False,False,False,True,True,False,True,False,True,True,True,True,True
+INC-0455,Kent,South East,September 2011,False,sharp instrument,residential_location,False,True,True,False,True,True,True,False,False,False,True,True,False,False,False
+INC-0456,Kingston upon Thames,Greater London,September 2011,False,blunt instrument,residential_location,True,False,False,False,True,False,False,True,False,False,True,True,False,False,True
+INC-0457,Durham,North East,January 2012,True,shooting,residential_location,True,False,False,True,True,False,False,False,False,False,True,True,False,False,False
+INC-0458,Blackburn With Darwen,North West,March 2013,False,hitting with a weapon,public_place,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0459,Doncaster,Yorkshire and Humber,December 2011,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0460,Elmbridge,South East,June 2015,True,"suffocation, asphyxiation or smothering",residential_location,True,True,False,True,True,True,False,False,False,False,True,True,False,False,False
+INC-0461,Lancaster,North West,April 2013,True,unknown,residential_location,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0462,Leicester,East Midlands,July 2013,False,unknown,not_known,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0463,Wigan,North West,2014,False,unknown,residential_location,True,False,False,True,False,True,True,False,False,False,False,False,True,False,False
+INC-0464,Durham,North East,November 2011,False,sharp instrument,other,False,False,False,False,True,True,False,False,False,False,True,False,False,False,False
+INC-0465,Oxford,South East,August 2012,False,sharp instrument,residential_location,False,True,True,False,True,False,True,False,False,False,True,True,False,False,False
+INC-0466,North Lincolnshire,Yorkshire and Humber,June 2014,False,sharp instrument,other,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0467,Newport,Wales,May 2014,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,False,False,False
+INC-0468,Leicester,East Midlands,February 2015,False,manual strangulation,residential_location,False,False,False,False,True,False,True,False,False,False,True,False,False,True,False
+INC-0469,Guildford,South East,March 2012,False,hitting with a weapon,residential_location,True,False,False,False,False,False,True,False,False,False,True,False,False,False,False
+INC-0470,Durham,North East,2013,False,unknown,not_known,True,False,False,False,False,True,True,False,False,False,False,True,False,False,False
+INC-0471,Bolton,North West,June 2012,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,False,True,True,False
+INC-0472,Sandwell,West Midlands,October 2012,False,sharp instrument,residential_location,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0473,Chiltern,South East,August 2015,False,sharp instrument,public_place,True,False,False,False,False,False,True,False,False,False,True,True,True,False,True
+INC-0474,Tower Hamlets,Greater London,September 2015,False,manual strangulation,residential_location,False,True,False,False,False,False,True,False,False,False,True,True,False,False,False
+INC-0475,Newham,Greater London,June 2013,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0476,Lewisham,Greater London,November 2011,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0477,Stevenage,East,November 2012,False,,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0478,Newham,Greater London,January 2014,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,False,True
+INC-0479,South Warwickshire,West Midlands,October 2012,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
+INC-0480,Sandwell,West Midlands,2015,False,unknown,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+INC-0481,Northampton,East Midlands,April 2015,False,blunt instrument,residential_location,False,True,True,False,True,False,False,False,False,False,True,True,False,False,False
+INC-0482,Newcastle-Under-Lyme,West Midlands,February 2012,False,sharp instrument,residential_location,True,False,False,False,True,False,False,False,False,False,True,True,True,False,False
+INC-0483,Herefordshire,West Midlands,April 2014,False,other,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0484,Leeds,Yorkshire and Humber,2013,False,sharp instrument,not_known,True,False,False,False,False,False,False,False,True,False,True,False,True,False,False
+INC-0485,Wolverhampton,West Midlands,December 2011,False,sharp instrument,residential_location,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0486,Bracknell Forest,South East,May 2012,False,sharp instrument,public_place,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0487,Southampton,South East,May 2015,False,blunt instrument,residential_location,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0488,Waveney,East,November 2014,False,other,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0489,Southend-on-Sea,East,November 2013,False,sharp instrument,residential_location,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False
+INC-0490,Lincoln,East Midlands,April 2016,True,sharp instrument,residential_location,False,True,True,False,True,True,False,False,False,False,True,True,True,False,False
+INC-0491,North Devon and Torridge,South West,June 2011,False,unknown,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,True,True,False
+INC-0492,Norfolk,East,July 2016,False,shooting,residential_location,True,False,False,True,False,True,False,False,False,False,False,False,True,False,False
+INC-0493,Basildon,East,2015,False,sharp instrument,other,True,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+INC-0494,Stockport,North West,December 2014,False,sharp instrument,residential_location,False,True,True,False,True,True,False,True,False,False,True,True,False,False,False
+INC-0495,Kent,South East,December 2014,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0496,Haringey,Greater London,March 2014,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,False,False,True,False,True
+INC-0497,Aylesbury Vale,South East,March 2018,False,blunt instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,True,False,False,False
+INC-0498,Stoke-on-Trent,West Midlands,June 2015,False,strangulation with ligature,residential_location,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False
+INC-0499,Sefton,North West,2015,True,sharp instrument,residential_location,False,True,True,False,True,True,True,False,False,False,True,False,False,False,True
+INC-0500,Preston,North West,September 2013,False,hitting with a weapon,other,False,True,True,False,True,True,False,False,False,False,True,False,False,False,False
+INC-0501,Sefton,North West,2014,False,hitting with a weapon,residential_location,False,True,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0502,Newcastle upon Tyne,North East,March 2014,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0503,Haringey,Greater London,December 2013,False,fall to a hard surface,public_place,True,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+INC-0504,Barnsley,Yorkshire and Humber,November 2015,False,unknown,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0505,Birmingham,West Midlands,June 2013,False,manual strangulation,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0506,West Berkshire,South East,August 2014,False,other,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,False,False,False
+INC-0507,Sefton,North West,September 2015,False,other,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,True,False
+INC-0508,Newham,Greater London,2013,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0509,North Devon and Torridge,South West,November 2014,False,sharp instrument,residential_location,False,True,True,False,True,False,True,False,False,False,False,False,False,False,False
+INC-0510,Harrow,Greater London,January 2015,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0511,Hackney,Greater London,March 2014,True,sharp instrument,residential_location,True,True,False,False,True,True,True,False,False,False,False,True,True,False,False
+INC-0512,Somerset,South West,September 2014,False,strangulation with ligature,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0513,Isle of Wight,South East,June 2016,False,unknown,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0514,Lincoln,East Midlands,June 2014,False,blunt instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0515,Merton,Greater London,February 2015,False,unknown,residential_location,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+INC-0516,Tower Hamlets,Greater London,August 2015,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0517,Southampton,South East,April 2011,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0518,Bolton,North West,October 2015,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0519,Bath and North East Somerset,South West,June 2015,False,sharp instrument,other,True,False,False,False,False,False,True,False,False,False,False,True,True,False,False
+INC-0520,Somerset,South West,February 2015,False,sharp instrument,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0521,Flintshire,Wales,September 2014,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,False
+INC-0522,Lancaster,North West,August 2017,False,arson,residential_location,True,False,False,False,True,True,False,False,False,False,True,True,False,False,True
+INC-0523,Torbay,South West,December 2011,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False
+INC-0524,South Tyneside,North East,2015,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0525,Hillingdon,Greater London,March 2015,False,sharp instrument,public_place,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0526,Powys,Wales,April 2016,False,manual strangulation,residential_location,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+INC-0527,Fenland,East,April 2016,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0528,Southend-on-Sea,East,February 2014,False,sharp instrument,not_known,True,False,False,False,False,True,True,False,False,False,True,False,True,False,True
+INC-0529,Lancaster,North West,August 2015,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0530,Hackney,Greater London,April 2014,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,False,True,False,False
+INC-0531,Stoke-on-Trent,West Midlands,February 2016,False,sharp instrument,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,False,False,False
+INC-0532,Western Suffolk,East,November 2014,False,sharp instrument,residential_location,True,False,False,True,False,True,False,False,False,False,True,False,True,False,False
+INC-0533,Newcastle-Under-Lyme,West Midlands,October 2014,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0534,Bassetlaw,East Midlands,August 2016,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0535,Oxford,South East,December 2013,False,manual strangulation,public_place,True,False,False,False,True,True,True,False,False,False,True,True,True,False,True
+INC-0536,Hillingdon,Greater London,January 2015,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0537,Stoke-on-Trent,West Midlands,April 2015,False,blunt instrument,residential_location,False,True,True,False,True,True,True,False,False,False,True,False,False,False,False
+INC-0538,Monmouthshire,Wales,June 2015,False,sharp instrument,residential_location,True,False,False,True,False,True,False,False,False,False,True,True,True,False,True
+INC-0539,Birmingham,West Midlands,August 2012,False,sharp instrument,other,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0540,Newham,Greater London,2013,False,sharp instrument,not_known,True,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+INC-0541,Swindon,South West,December 2016,False,hitting with a weapon,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,True,False
+INC-0542,Leeds,Yorkshire and Humber,2014,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,False,True,True,False,True
+INC-0543,Brent,Greater London,September 2011,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,True,True,True,False,True
+INC-0544,Wiltshire,South West,November 2012,False,unknown,other,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0545,New Forest,South East,December 2013,False,unknown,other,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0546,Pembrokeshire,Wales,February 2021,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,True,False,True,True,False,False,False,True,True,False,False,False
+INC-0547,Kent,South East,November 2015,False,blunt instrument,residential_location,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0548,Sandwell,West Midlands,2020,True,sharp instrument,residential_location,False,True,True,False,True,True,False,False,False,False,True,True,False,False,False
+INC-0549,Wycombe,South East,2019,False,"suffocation, asphyxiation or smothering",public_place,True,False,False,False,False,True,True,False,False,False,False,True,False,False,False
+INC-0550,Western Suffolk,East,February 2017,False,sharp instrument,residential_location,True,False,False,True,False,True,True,False,False,False,False,True,True,False,False
+INC-0551,Lincoln,East Midlands,2018,False,blunt instrument,residential_location,True,False,False,False,True,True,False,False,False,False,False,True,False,False,True
+INC-0552,Basildon,East,September 2012,False,shooting,residential_location,False,True,True,True,True,False,False,False,False,False,False,False,True,False,False
+INC-0553,Somerset,South West,November 2020,False,other,other,True,False,False,False,False,False,True,False,False,False,True,True,False,True,False
+INC-0554,Leicester,East Midlands,March 2016,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,True,False,True,False,False
+INC-0555,Fenland,East,December 2018,False,sharp instrument,residential_location,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0556,Windsor and Maidenhead,South East,December 2017,False,blunt instrument,residential_location,False,True,True,False,True,True,False,False,False,False,True,False,False,False,False
+INC-0557,Merton,Greater London,July 2017,False,sharp instrument,residential_location,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0558,Leicester,East Midlands,April 2015,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0559,Kent,South East,April 2017,False,"suffocation, asphyxiation or smothering",residential_location,True,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+INC-0560,Norfolk,East,July 2019,False,manual strangulation,other,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0561,Dudley,West Midlands,January 2018,False,manual strangulation,residential_location,True,False,False,False,False,False,True,False,False,False,True,False,True,False,True
+INC-0562,Sandwell,West Midlands,2017,False,blunt instrument,residential_location,True,False,False,True,True,True,False,False,False,False,True,True,False,False,False
+INC-0563,West Berkshire,South East,November 2017,False,unknown,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0564,Kirklees,Yorkshire and Humber,August 2018,False,sharp instrument,residential_location,False,True,False,False,True,False,False,False,False,False,False,False,True,False,False
+INC-0565,Croydon,Greater London,October 2016,False,other poisoning,residential_location,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0566,North Hampshire,South East,May 2014,False,manual strangulation,residential_location,False,True,True,False,True,True,False,False,False,False,False,False,True,False,False
+INC-0567,St Helens,North West,November 2018,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,True,True,True,False,True,True
+INC-0568,Bedford,East,March 2018,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False
+INC-0569,Coventry,West Midlands,December 2017,False,sharp instrument,residential_location,False,True,True,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0570,Kent,South East,November 2018,False,arson,residential_location,False,True,False,False,True,False,False,False,False,False,False,False,True,False,True
+INC-0571,Waverley,South East,February 2014,True,shooting,residential_location,True,True,False,False,True,False,True,False,False,False,False,False,False,False,False
+INC-0572,Dudley,West Midlands,January 2016,False,other,other,False,True,True,False,True,False,False,False,False,False,False,True,False,False,False
+INC-0573,Lincoln,East Midlands,August 2015,True,arson,residential_location,True,True,False,False,True,True,False,False,False,False,False,True,False,False,False
+INC-0574,Hartlepool,North East,August 2018,False,sharp instrument,public_place,True,False,False,False,False,True,False,False,False,False,True,True,True,False,False
+INC-0575,Somerset,South West,October 2019,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,True,True,True,True,False,False
+INC-0576,Milton Keynes,South East,June 2015,False,unknown,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+INC-0577,Kensington and Chelsea,Greater London,May 2019,True,sharp instrument,residential_location,False,True,True,False,True,True,True,False,False,False,True,True,False,False,False
+INC-0578,Havering,Greater London,July 2017,False,sharp instrument,residential_location,False,True,True,True,True,True,False,False,False,False,False,True,False,False,False
+INC-0579,Sheffield,Yorkshire and Humber,December 2017,False,manual strangulation,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0580,Hillingdon,Greater London,2018,False,unknown,not_known,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0581,Ashfield,East Midlands,April 2018,False,sharp instrument,residential_location,True,False,False,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0582,Salford,North West,December 2017,False,sharp instrument,residential_location,True,False,False,True,False,True,True,False,False,False,True,False,True,False,True
+INC-0583,Bristol,South West,February 2016,False,sharp instrument,other,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0584,Nottingham,East Midlands,July 2018,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0585,Warrington,North West,April 2018,False,hitting with a weapon,other,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0586,Somerset,South West,September 2017,False,strangulation with ligature,residential_location,True,False,False,False,True,False,True,False,False,False,True,True,True,False,False
+INC-0587,Derbyshire Dales,East Midlands,February 2019,False,sharp instrument,residential_location,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0588,Cardiff,Wales,August 2015,False,sharp instrument,other,False,True,False,False,True,False,False,False,False,False,False,False,False,True,False
+INC-0589,Waverley,South East,October 2017,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0590,Tower Hamlets,Greater London,October 2018,False,strangulation with ligature,residential_location,True,False,False,False,True,True,True,False,False,False,False,True,True,False,True
+INC-0591,Cardiff,Wales,January 2016,False,arson,residential_location,False,True,True,False,True,True,True,False,False,False,False,False,False,False,False
+INC-0592,Leicester,East Midlands,October 2018,False,sharp instrument,residential_location,False,True,True,False,True,True,False,False,False,False,True,True,False,False,False
+INC-0593,North Devon and Torridge,South West,2015,False,blunt instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0594,Plymouth,South West,October 2017,False,other,other,False,True,True,True,True,True,True,False,False,False,True,True,True,False,True
+INC-0595,South Warwickshire,West Midlands,November 2017,False,other,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,True
+INC-0596,Milton Keynes,South East,May 2018,False,sharp instrument,other,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0597,Swindon,South West,November 2017,False,strangulation with ligature,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,True,True
+INC-0598,Kent,South East,July 2018,False,unknown,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0599,Lambeth,Greater London,May 2017,False,sharp instrument,public_place,True,False,False,False,True,True,True,False,False,True,True,True,True,False,True
+INC-0600,Wigan,North West,October 2016,False,sharp instrument,other,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0601,Salford,North West,June 2019,False,sharp instrument,residential_location,True,False,False,True,False,True,True,False,False,False,True,True,True,False,False
+INC-0602,Tower Hamlets,Greater London,January 2019,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,True,False,True,True,False,True,False
+INC-0603,Tower Hamlets,Greater London,January 2019,False,manual strangulation,residential_location,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0604,Derby,East Midlands,2018,False,unknown,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,False,False,False
+INC-0605,Southwark,Greater London,July 2018,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,True,False,True
+INC-0606,Cwm Taf,Wales,June 2017,False,unknown,residential_location,False,True,False,False,False,True,True,False,False,False,False,True,False,False,False
+INC-0607,Brent,Greater London,August 2018,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0608,Somerset,South West,August 2015,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,True,False,True
+INC-0609,Kent,South East,August 2018,False,strangulation with ligature,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,True
+INC-0610,Gateshead,North East,October 2016,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,True,True,False,True
+INC-0611,Gloucester,South West,January 2019,False,sharp instrument,residential_location,False,True,False,False,True,True,True,False,False,False,True,False,False,False,False
+INC-0612,Plymouth,South West,December 2013,False,manual strangulation,residential_location,True,False,False,False,True,True,False,False,False,False,False,True,True,False,True
+INC-0613,Sunderland,North East,September 2018,False,manual strangulation,residential_location,True,False,False,True,False,True,True,False,False,False,True,False,True,False,False
+INC-0614,East Staffordshire,West Midlands,2018,False,manual strangulation,other,True,False,False,False,False,True,True,False,False,False,False,False,True,False,True
+INC-0615,Hammersmith and Fulham,Greater London,March 2018,False,sharp instrument,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0616,South Norfolk,East,September 2018,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+INC-0617,Kent,South East,May 2018,False,other poisoning,residential_location,True,False,False,False,False,True,True,False,True,False,True,True,False,False,False
+INC-0618,Bridgend,Wales,June 2015,False,sharp instrument,residential_location,False,True,True,False,True,True,True,False,False,False,False,True,True,False,False
+INC-0619,Sandwell,West Midlands,December 2018,False,unknown,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,True,False
+INC-0620,Bolton,North West,March 2019,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0621,Lincoln,East Midlands,September 2017,False,carbon monoxide poisoning,residential_location,True,False,False,False,False,True,False,False,False,False,True,False,True,False,False
+INC-0622,Lincoln,East Midlands,April 2017,False,unknown,residential_location,True,False,False,True,False,True,False,False,False,False,True,False,True,False,False
+INC-0623,Nottingham,East Midlands,November 2017,False,hit by vehicle,public_place,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0624,Gloucestershire,South West,May 2018,True,sharp instrument,residential_location,True,True,False,False,True,True,True,False,False,False,True,True,True,False,False
+INC-0625,Walsall,West Midlands,February 2018,False,sharp instrument,residential_location,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0626,Braintree,East,December 2017,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0627,Kent,South East,December 2015,False,hitting with a weapon,other,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False
+INC-0628,Warrington,North West,November 2018,False,blunt instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0629,North Yorkshire,Yorkshire and Humber,March 2018,False,manual strangulation,public_place,True,False,False,False,False,True,False,False,False,False,True,True,True,False,True
+INC-0630,Middlesbrough,North East,May 2018,False,manual strangulation,residential_location,True,True,False,False,True,True,True,False,False,True,True,True,False,False,False
+INC-0631,Middlesbrough,North East,October 2018,False,manual strangulation,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,False,False,False
+INC-0632,Croydon,Greater London,March 2017,False,sharp instrument,residential_location,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0633,Hammersmith and Fulham,Greater London,June 2016,False,sharp instrument,residential_location,True,False,False,True,True,True,True,False,False,False,False,False,True,False,False
+INC-0634,Cwm Taf,Wales,December 2017,False,sharp instrument,residential_location,True,False,False,False,True,True,False,False,False,False,False,False,False,False,False
+INC-0635,Leicester,East Midlands,January 2017,False,unknown,not_known,True,False,False,False,False,True,True,False,False,False,True,True,True,False,False
+INC-0636,Stockport,North West,January 2006,False,unknown,residential_location,False,True,True,False,False,True,False,False,False,False,True,True,False,True,False
+INC-0637,Cheshire West and Chester,North West,June 2018,False,sharp instrument,residential_location,False,True,True,False,True,False,False,False,False,False,True,False,False,False,False
+INC-0638,Buckinghamshire,South East,July 2019,False,"suffocation, asphyxiation or smothering",other,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+INC-0639,Doncaster,Yorkshire and Humber,December 2017,False,sharp instrument,residential_location,False,True,False,False,False,False,True,False,False,False,False,False,False,True,False
+INC-0640,Rochdale,North West,February 2018,False,sharp instrument,residential_location,True,True,False,False,False,True,False,False,True,True,True,False,False,True,False
+INC-0641,Brent,Greater London,October 2017,False,sharp instrument,residential_location,True,False,False,False,True,True,True,False,False,True,True,True,True,False,True
+INC-0642,Enfield,Greater London,March 2016,False,sharp instrument,residential_location,True,False,False,False,False,True,False,False,False,False,True,True,False,False,True
+INC-0643,Brent,Greater London,June 2018,False,sharp instrument,residential_location,True,False,False,False,False,True,True,False,False,True,True,True,False,True,True
+INC-0644,Haringey,Greater London,March 2018,False,sharp instrument,residential_location,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+INC-0645,Lambeth,Greater London,April 2018,False,sharp instrument,residential_location,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+INC-0646,Kent,South East,April 2018,False,manual strangulation,residential_location,True,False,False,True,False,False,False,False,False,False,False,False,True,False,False
+INC-0647,North Yorkshire,Yorkshire and Humber,September 2018,False,manual strangulation,residential_location,True,False,False,False,False,True,True,False,False,False,True,True,True,False,True
