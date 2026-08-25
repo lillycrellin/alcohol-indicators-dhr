@@ -8,9 +8,9 @@ authors:
 references:
   - type: dataset
     title: "The Domestic Homicide Review Dataset (DHRD) for England and Wales"
-    version: "1.0.0"
-    date-released: 2026-07-01
-    doi: "10.5281/zenodo.21108268"
+    version: "1.0.3"
+    date-released: 2026-07-28
+    doi: "10.5281/zenodo.21648010"
     authors:
       - family-names: "Cook"
         given-names: "Darren"
