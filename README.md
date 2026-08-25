@@ -2,20 +2,6 @@
 
 This repository contains the data and R code used to calculate the prevalence of recorded victim and perpetrator alcohol vulnerability indicators among **619 single-victim incidents** in the Domestic Homicide Review Dataset (DHRD) for England and Wales.
 
-## Results
-
-| Recorded indicator | n/N | % |
-|---|---:|---:|
-| Any victim or perpetrator indicator | 356/619 | 57.5 |
-| Victim only | 62/619 | 10.0 |
-| Perpetrator only | 134/619 | 21.6 |
-| Both victim and perpetrator | 160/619 | 25.8 |
-| Neither victim nor perpetrator | 263/619 | 42.5 |
-
-Across the overlapping party-level totals, a victim indicator was recorded in 222 incidents (35.9%) and a perpetrator indicator in 294 incidents (47.5%). The victim total is 62 victim-only incidents plus 160 incidents with both indicators; the perpetrator total is 134 perpetrator-only incidents plus the same 160 incidents with both indicators.
-
-These figures describe **indicators recorded in the Home Office metadata**. They do not establish that alcohol caused or was directly involved in 57.5% of the homicides, and they are not estimates of alcohol abuse or dependence in the wider domestic-homicide population.
-
 ## Repository contents
 
 ```text
@@ -55,12 +41,6 @@ The script:
 4. checks that every included incident has one linked victim and perpetrator record and no missing indicator value; and
 5. writes the summary, cross-tabulation, and incident-level analysis file to `data/derived/`.
 
-The mutually exclusive cross-tabulation is:
-
-| | Perpetrator: no | Perpetrator: yes |
-|---|---:|---:|
-| **Victim: no** | 263 (neither) | 134 (perpetrator only) |
-| **Victim: yes** | 62 (victim only) | 160 (both) |
 
 ## Data source and citation
 
