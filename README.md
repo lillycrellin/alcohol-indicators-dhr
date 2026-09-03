@@ -23,8 +23,6 @@ This repository contains the data and R code used to calculate the prevalence of
 │       ├── alcohol_victim_suicide_by_case_type.csv
 │       ├── alcohol_by_perpetrator_suicide.csv
 │       ├── incident_alcohol_case_types.csv
-│       ├── alcohol_by_homicide_case_type.png
-│       └── alcohol_by_perpetrator_suicide.png
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
