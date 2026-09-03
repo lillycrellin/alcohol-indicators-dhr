@@ -7,7 +7,8 @@ This repository contains the data and R code used to calculate the prevalence of
 ```text
 .
 ├── R/
-│   └── alcohol_indicator_estimates.R
+│   ├── alcohol_indicator_estimates.R
+│   └── alcohol_indicators_by_case_type.R
 ├── data/
 │   ├── raw/
 │   │   ├── incidents.csv
@@ -17,20 +18,29 @@ This repository contains the data and R code used to calculate the prevalence of
 │   └── derived/
 │       ├── alcohol_indicator_summary.csv
 │       ├── alcohol_indicator_crosstab.csv
-│       └── incident_alcohol_indicators.csv
+│       ├── incident_alcohol_indicators.csv
+│       ├── alcohol_by_homicide_case_type.csv
+│       ├── alcohol_victim_suicide_by_case_type.csv
+│       ├── alcohol_by_perpetrator_suicide.csv
+│       ├── incident_alcohol_case_types.csv
+│       ├── alcohol_by_homicide_case_type.png
+│       └── alcohol_by_perpetrator_suicide.png
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
 ```
 
-The three files in `data/raw/` are unchanged source-data files. The files in `data/derived/` are produced by the R script.
+The three files in `data/raw/` are unchanged source-data files. The files in
+`data/derived/` are produced by the R scripts.
 
 ## Reproduce the analysis
 
-The analysis uses base R and requires no additional packages. From the repository root, run:
+The overall indicator analysis uses base R. The case-type analysis also requires
+`ggplot2` to generate its figures. From the repository root, run:
 
 ```r
 source("R/alcohol_indicator_estimates.R")
+source("R/alcohol_indicators_by_case_type.R")
 ```
 
 The script:
@@ -41,6 +51,11 @@ The script:
 4. checks that every included incident has one linked victim and perpetrator record and no missing indicator value; and
 5. writes the summary, cross-tabulation, and incident-level analysis file to `data/derived/`.
 
+The additional case-type script compares victim, perpetrator and both-person
+alcohol indicators across homicide case types, victim-suicide classifications,
+and the overlapping `homicide_suicide` incident flag. It documents the handling
+of overlapping case-type flags directly in the code and writes tables and
+figures to `data/derived/`.
 
 ## Data source and citation
 
