@@ -1,0 +1,7 @@
+"case_type","indicator","numerator","denominator","percent"
+"Homicide without perpetrator suicide","Victim alcohol indicator",176,490,35.9
+"Homicide without perpetrator suicide","Perpetrator alcohol indicator",241,490,49.2
+"Homicide without perpetrator suicide","Both-person alcohol indicators",133,490,27.1
+"Homicide followed by perpetrator suicide","Victim alcohol indicator",11,64,17.2
+"Homicide followed by perpetrator suicide","Perpetrator alcohol indicator",26,64,40.6
+"Homicide followed by perpetrator suicide","Both-person alcohol indicators",8,64,12.5

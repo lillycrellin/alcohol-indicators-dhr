@@ -1,0 +1,13 @@
+"case_type","indicator","numerator","denominator","percent"
+"IPV","Victim alcohol indicator",33,59,55.9
+"IPV","Perpetrator alcohol indicator",27,59,45.8
+"IPV","Both-person alcohol indicators",19,59,32.2
+"Other familial","Victim alcohol indicator",0,2,0
+"Other familial","Perpetrator alcohol indicator",0,2,0
+"Other familial","Both-person alcohol indicators",0,2,0
+"Parricide","Victim alcohol indicator",0,0,NA
+"Parricide","Perpetrator alcohol indicator",0,0,NA
+"Parricide","Both-person alcohol indicators",0,0,NA
+"Other/uncategorised","Victim alcohol indicator",1,2,50
+"Other/uncategorised","Perpetrator alcohol indicator",0,2,0
+"Other/uncategorised","Both-person alcohol indicators",0,2,0

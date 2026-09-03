@@ -1,0 +1,13 @@
+"case_type","indicator","numerator","denominator","percent"
+"IPV homicide","Victim alcohol indicator",139,402,34.6
+"IPV homicide","Perpetrator alcohol indicator",192,402,47.8
+"IPV homicide","Both-person alcohol indicators",106,402,26.4
+"Other familial homicide","Victim alcohol indicator",12,39,30.8
+"Other familial homicide","Perpetrator alcohol indicator",17,39,43.6
+"Other familial homicide","Both-person alcohol indicators",8,39,20.5
+"Parricide homicide","Victim alcohol indicator",18,80,22.5
+"Parricide homicide","Perpetrator alcohol indicator",38,80,47.5
+"Parricide homicide","Both-person alcohol indicators",13,80,16.2
+"Other/uncategorised homicide","Victim alcohol indicator",16,27,59.3
+"Other/uncategorised homicide","Perpetrator alcohol indicator",17,27,63
+"Other/uncategorised homicide","Both-person alcohol indicators",12,27,44.4
