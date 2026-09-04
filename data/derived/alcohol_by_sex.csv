@@ -1,0 +1,9 @@
+"party","sex","recorded","not_recorded","total","percent_recorded"
+"Victim","Female",137,332,469,29.2
+"Victim","Male",84,61,145,57.9
+"Victim","Unknown",1,4,5,20
+"Victim","Total",222,397,619,35.9
+"Perpetrator","Female",46,33,79,58.2
+"Perpetrator","Male",247,287,534,46.3
+"Perpetrator","Unknown",1,5,6,16.7
+"Perpetrator","Total",294,325,619,47.5
