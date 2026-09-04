@@ -8,7 +8,8 @@ This repository contains the data and R code used to calculate the prevalence of
 .
 ├── R/
 │   ├── alcohol_indicator_estimates.R
-│   └── alcohol_indicators_by_case_type.R
+│   ├── alcohol_indicators_by_case_type.R
+│   └── alcohol_indicators_by_sex.R
 ├── data/
 │   ├── raw/
 │   │   ├── incidents.csv
@@ -22,7 +23,12 @@ This repository contains the data and R code used to calculate the prevalence of
 │       ├── alcohol_by_homicide_case_type.csv
 │       ├── alcohol_victim_suicide_by_case_type.csv
 │       ├── alcohol_by_perpetrator_suicide.csv
+│       ├── alcohol_by_sex.csv
+│       ├── alcohol_by_homicide_case_type_and_sex.csv
+│       ├── alcohol_by_suicide_type_and_sex.csv
 │       ├── incident_alcohol_case_types.csv
+│       ├── alcohol_by_homicide_case_type.png
+│       └── alcohol_by_perpetrator_suicide.png
 ├── CITATION.cff
 ├── LICENSE
 └── README.md
@@ -39,6 +45,7 @@ The overall indicator analysis uses base R. The case-type analysis also requires
 ```r
 source("R/alcohol_indicator_estimates.R")
 source("R/alcohol_indicators_by_case_type.R")
+source("R/alcohol_indicators_by_sex.R")
 ```
 
 The script:
@@ -54,6 +61,14 @@ alcohol indicators across homicide case types, victim-suicide classifications,
 and the overlapping `homicide_suicide` incident flag. It documents the handling
 of overlapping case-type flags directly in the code and writes tables and
 figures to `data/derived/`.
+
+The sex-analysis script reports victim and perpetrator alcohol indicators by
+recorded sex overall, within the mutually exclusive homicide case types, and
+within victim-suicide and homicide-followed-by-perpetrator-suicide groups. Sex
+is reported as recorded in the source metadata. Unknown-sex records are shown
+in the overall output and retained in analysis totals, but are not displayed in
+the female/male case-type tables. Small subgroup percentages should be
+interpreted cautiously.
 
 ## Data source and citation
 
